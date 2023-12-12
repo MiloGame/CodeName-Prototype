@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <ui:VisualElement name="taskui" style="flex-grow: 1; position: absolute; flex-direction: row; align-items: center; align-self: auto; top: 0; left: 0; background-color: rgba(0, 0, 0, 0.86); display: flex;">
+        <ui:Label tabindex="-1" text="\ueac9" display-tooltip-when-elided="true" style="margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; -unity-font-definition: url(&apos;project://database/Assets/UIArts/MaterialIcons/MaterialIcons-Regular%20SDF.asset?fileID=11400000&amp;guid=3375725d038840c4d916a4bf09c95321&amp;type=2#MaterialIcons-Regular SDF&apos;); font-size: 30px; color: rgb(255, 255, 255); -unity-font-style: bold; -unity-text-align: middle-center;" />
+        <ui:Label tabindex="-1" text="Hold&lt;color=green&gt;F&lt;/color&gt;ToPickUp" display-tooltip-when-elided="true" style="color: rgb(255, 255, 255); font-size: 30px;" />
+    </ui:VisualElement>
+</ui:UXML>

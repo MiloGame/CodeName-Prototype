@@ -1,0 +1,29 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <ui:Template name="CustonIconButton" src="project://database/Assets/Resources/CustomUIToolket/Uxml/CustonIconButton.uxml?fileID=9197481963319205126&amp;guid=3fea4fc3a71a2a942add8751d38ee5fa&amp;type=3#CustonIconButton" />
+    <Style src="project://database/Assets/Resources/CustomUIToolket/Uss/LoginScreen.uss?fileID=7433441132597879392&amp;guid=0abbf2d0ad670804ea11a8cd9ddcc664&amp;type=3#LoginScreen" />
+    <ui:VisualElement name="logwindow" picking-mode="Ignore" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); align-items: auto;">
+        <ui:VisualElement name="SettingPanel" class="setting-panel" style="width: 87px; right: 15px; justify-content: flex-start;">
+            <ui:Instance template="CustonIconButton" name="notice-button" picking-mode="Ignore">
+                <AttributeOverrides element-name="icon" text="\ue7f7" />
+                <AttributeOverrides element-name="text" text="Notices" />
+            </ui:Instance>
+            <ui:Instance template="CustonIconButton" name="update-button" picking-mode="Ignore">
+                <AttributeOverrides element-name="text" text="Update" />
+                <AttributeOverrides element-name="icon" text="\ue863" />
+            </ui:Instance>
+            <ui:Instance template="CustonIconButton" name="logout-button" picking-mode="Ignore">
+                <AttributeOverrides element-name="text" text="LogOut" />
+                <AttributeOverrides element-name="icon" text="\ue9ba" />
+            </ui:Instance>
+            <ui:Instance template="CustonIconButton" name="exit-button" picking-mode="Ignore">
+                <AttributeOverrides element-name="text" text="Exit" />
+                <AttributeOverrides element-name="icon" text="\ue8ac" />
+            </ui:Instance>
+        </ui:VisualElement>
+        <ui:VisualElement name="start-base" picking-mode="Ignore" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); position: absolute; bottom: 10%; align-items: center; justify-content: center; align-self: center; width: 100%; height: 8%; overflow: hidden;">
+            <ui:VisualElement name="fill" picking-mode="Ignore" class="start-fill">
+                <ui:Label tabindex="-1" text="Click To Start" display-tooltip-when-elided="true" picking-mode="Ignore" style="-unity-font-style: bold; -unity-text-align: upper-center; color: rgb(255, 255, 255); font-size: 28px;" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

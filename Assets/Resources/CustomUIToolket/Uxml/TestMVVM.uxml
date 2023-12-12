@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <ui:Template name="TestMVVMTemplate" src="project://database/Assets/Resources/CustomUIToolket/Uxml/TestMVVMTemplate.uxml?fileID=9197481963319205126&amp;guid=2b307b14c62028343b6a74e6f5b3e36a&amp;type=3#TestMVVMTemplate" />
+    <Style src="project://database/Assets/Resources/CustomUIToolket/Uss/TestMVVM.uss?fileID=7433441132597879392&amp;guid=b56e2cad7c1ce9045881cd109f3b2d2e&amp;type=3#TestMVVM" />
+    <ui:Instance template="TestMVVMTemplate" name="TestMVVMTemplate" picking-mode="Ignore" />
+    <ui:TextField picking-mode="Ignore" label="Text Field" value="filler text" name="dataupdate" style="height: 200px; justify-content: flex-start; align-items: center; font-size: 48px;" />
+</ui:UXML>

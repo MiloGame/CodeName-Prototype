@@ -1,0 +1,40 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <ui:Template name="Logwindow" src="project://database/Assets/Resources/CustomUIToolket/Uxml/Logwindow.uxml?fileID=9197481963319205126&amp;guid=fae7276e51a36544091a382eb1d601de&amp;type=3#Logwindow" />
+    <ui:Template name="Closepopup" src="project://database/Assets/Resources/CustomUIToolket/Uxml/Closepopup.uxml?fileID=9197481963319205126&amp;guid=d578eefc035120c4f88055ed594c8d1f&amp;type=3#Closepopup" />
+    <Style src="project://database/Assets/Resources/CustomUIToolket/Uss/LoginScreen.uss?fileID=7433441132597879392&amp;guid=0abbf2d0ad670804ea11a8cd9ddcc664&amp;type=3#LoginScreen" />
+    <ui:VisualElement name="BaseElem" class="baseelem">
+        <ui:Instance template="Logwindow" name="Logwindow" style="width: 100%; height: 100%; position: absolute;" />
+        <ui:VisualElement name="ChosseLevel" picking-mode="Ignore" style="position: absolute; width: 100%; height: 100%; overflow: visible; display: none; justify-content: flex-end; align-self: auto;">
+            <ui:VisualElement name="ButtonGroup" picking-mode="Ignore" style="justify-content: flex-start; height: 45%; left: 1.5%; align-self: flex-start; align-items: flex-start; bottom: 1.5%;">
+                <ui:VisualElement name="playtab" focusable="true" class="custom-play-tab custom-playtab-init">
+                    <ui:VisualElement picking-mode="Ignore" name="fill" class="custom-tab-fill" />
+                    <ui:Label tabindex="-1" text="\uea28" display-tooltip-when-elided="true" name="icon" picking-mode="Ignore" class="custom-tab-icon" />
+                    <ui:Label tabindex="-1" text="Play" display-tooltip-when-elided="true" name="text" picking-mode="Ignore" class="custom-tab-text" />
+                </ui:VisualElement>
+                <ui:VisualElement name="shoptab" focusable="true" class="custom-shop-tab custom-shoptab-init">
+                    <ui:VisualElement picking-mode="Ignore" name="fill" class="custom-tab-fill" />
+                    <ui:Label tabindex="-1" text="\ue8d1" display-tooltip-when-elided="true" name="icon" picking-mode="Ignore" class="custom-tab-icon" />
+                    <ui:Label tabindex="-1" text="Shop" display-tooltip-when-elided="true" name="text" picking-mode="Ignore" class="custom-tab-text" />
+                </ui:VisualElement>
+                <ui:VisualElement name="settingtab" focusable="true" class="custom-setting-tab custom-settingtab-init">
+                    <ui:VisualElement picking-mode="Ignore" name="fill" class="custom-tab-fill" />
+                    <ui:Label tabindex="-1" text="\ue8b8" display-tooltip-when-elided="true" name="icon" picking-mode="Ignore" class="custom-tab-icon" />
+                    <ui:Label tabindex="-1" text="Settings" display-tooltip-when-elided="true" name="text" picking-mode="Ignore" class="custom-tab-text" />
+                </ui:VisualElement>
+                <ui:VisualElement name="herotab" focusable="true" class="custom-heros-tab custom-herotab-init">
+                    <ui:VisualElement picking-mode="Ignore" name="fill" class="custom-tab-fill" />
+                    <ui:Label tabindex="-1" text="\ue85e" display-tooltip-when-elided="true" name="icon" picking-mode="Ignore" class="custom-tab-icon" />
+                    <ui:Label tabindex="-1" text="Heros" display-tooltip-when-elided="true" name="text" picking-mode="Ignore" class="custom-tab-text" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+    <ui:Instance template="Closepopup" name="Closepopup" picking-mode="Ignore" style="position: absolute; width: 100%; height: 100%; display: none;" />
+    <ui:VisualElement name="LoadingScreen" style="flex-grow: 1; background-color: rgb(0, 0, 0); position: absolute; width: 100%; height: 100%; display: none; align-self: center; justify-content: flex-end; align-items: center;">
+        <ui:VisualElement name="LoadingBar" style="flex-grow: 0; background-color: rgba(188, 188, 188, 0.71); height: 50px; justify-content: center; width: 60%; overflow: hidden; bottom: 15%;">
+            <ui:VisualElement name="LoadingFill" style="background-color: rgb(18, 147, 18); align-self: flex-end; translate: 0 0; transform-origin: right; margin-left: 2px; margin-right: 2px; margin-top: 2px; margin-bottom: 2px; flex-grow: 1; width: 100%; height: 100%;" />
+        </ui:VisualElement>
+        <ui:Label tabindex="-1" text="Label" display-tooltip-when-elided="true" name="LoadPersent" style="align-self: center; justify-content: center; -unity-text-align: middle-center; font-size: 50px; margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; -unity-font-style: bold; color: rgb(255, 255, 255); bottom: 7%;" />
+        <ui:Label tabindex="-1" text="本项目的所有UI均为自己基于UITookit自制的MVVM的框架&#10;非UGUI" display-tooltip-when-elided="true" name="Note" style="align-self: center; justify-content: center; -unity-text-align: middle-center; font-size: 50px; margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; -unity-font-style: bold; color: rgb(255, 255, 255); top: 10%; position: absolute;" />
+    </ui:VisualElement>
+</ui:UXML>

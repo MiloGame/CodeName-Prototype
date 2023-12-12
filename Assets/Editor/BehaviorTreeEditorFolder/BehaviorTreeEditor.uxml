@@ -1,0 +1,22 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/Editor/BehaviorTreeEditorFolder/BehaviorTreeEditor.uss?fileID=7433441132597879392&amp;guid=8ebf42a561f058f4f982f12c3c58d4a6&amp;type=3#BehaviorTreeEditor" />
+    <SplitView fixed-pane-initial-dimension="300">
+        <ui:ScrollView>
+            <ui:Button text="Load" display-tooltip-when-elided="true" name="Load" style="margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0;" />
+            <ui:TextField picking-mode="Ignore" name="FileName" />
+            <ui:Button text="Save" display-tooltip-when-elided="true" name="Save" style="padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0;" />
+            <ui:VisualElement name="inspect-container" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0);">
+                <ui:Label tabindex="-1" text="Inspector" display-tooltip-when-elided="true" name="Label" style="color: rgb(255, 255, 255);" />
+                <InspectView />
+            </ui:VisualElement>
+            <ui:VisualElement name="blackboard-container" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0);">
+                <ui:Label tabindex="-1" text="BlackBoard" display-tooltip-when-elided="true" style="color: rgb(255, 255, 255);" />
+                <ui:IMGUIContainer />
+            </ui:VisualElement>
+        </ui:ScrollView>
+        <ui:VisualElement name="rightpanel" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0);">
+            <ui:Label tabindex="-1" text="Behavior Tree View" display-tooltip-when-elided="true" style="color: rgb(255, 255, 255);" />
+            <BehaviorTreeView focusable="true" style="flex-grow: 1;" />
+        </ui:VisualElement>
+    </SplitView>
+</ui:UXML>

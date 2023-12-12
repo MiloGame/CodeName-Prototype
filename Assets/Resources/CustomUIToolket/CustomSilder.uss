@@ -1,0 +1,55 @@
+#MySlider Label {
+    display: none;
+    width: auto;
+}
+
+#MySlider #unity-drag-container {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 40px;
+    margin-right: 40px;
+    overflow: hidden;
+}
+
+#MySlider #unity-dragger {
+    flex-grow: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    width: 20px;
+    height: 100%;
+    top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color: rgb(255, 233, 0);
+}
+
+#MySlider #unity-tracker {
+    flex-grow: 1;
+    background-color: rgb(24, 12, 12);
+    position: relative;
+    top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.bar {
+    height: 100%;
+    width: 4000px;
+    background-color: rgb(255, 64, 0);
+    align-items: stretch;
+    align-self: flex-end;
+}
+
+.newdragger {
+    position: absolute;
+    -unity-font: initial;
+    width: 80px;
+    height: 80px;
+    background-color: rgba(0, 30, 255, 0.98);
+}

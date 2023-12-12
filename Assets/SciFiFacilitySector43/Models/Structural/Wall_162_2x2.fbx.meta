@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: b309ca46785c8b647a1b9545b2557d9d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: LOD_0.031
+    100002: LOD_0.032
+    100004: LOD_0.033
+    100006: LOD_1.017_Plane.000
+    100008: LOD_1.018_Plane.000
+    100010: LOD_1.022_Plane.000
+    100012: Panel_06.002
+    100014: Panel_20.002
+    100016: Panel_27.002
+    100018: Screen_01.004
+    100020: Screen_02.004
+    100022: Screen_03.004
+    100024: Screen_04.004
+    100026: Screen_05.004
+    100028: Wall_01_Panel_005.001
+    100030: //RootNode
+    400000: LOD_0.031
+    400002: LOD_0.032
+    400004: LOD_0.033
+    400006: LOD_1.017_Plane.000
+    400008: LOD_1.018_Plane.000
+    400010: LOD_1.022_Plane.000
+    400012: Panel_06.002
+    400014: Panel_20.002
+    400016: Panel_27.002
+    400018: Screen_01.004
+    400020: Screen_02.004
+    400022: Screen_03.004
+    400024: Screen_04.004
+    400026: Screen_05.004
+    400028: Wall_01_Panel_005.001
+    400030: //RootNode
+    2100000: MainColor_02
+    2100002: MainColor_01
+    2100004: Decals_2
+    2100006: Labels
+    2100008: Controls
+    2100010: Controls_LOD.003
+    2100012: ScreenUI
+    2100014: Controls_LOD
+    2300000: LOD_0.031
+    2300002: LOD_0.032
+    2300004: LOD_0.033
+    2300006: LOD_1.017_Plane.000
+    2300008: LOD_1.018_Plane.000
+    2300010: LOD_1.022_Plane.000
+    2300012: Screen_01.004
+    2300014: Screen_02.004
+    2300016: Screen_03.004
+    2300018: Screen_04.004
+    2300020: Screen_05.004
+    2300022: Wall_01_Panel_005.001
+    2300024: //RootNode
+    3300000: LOD_0.031
+    3300002: LOD_0.032
+    3300004: LOD_0.033
+    3300006: LOD_1.017_Plane.000
+    3300008: LOD_1.018_Plane.000
+    3300010: LOD_1.022_Plane.000
+    3300012: Screen_01.004
+    3300014: Screen_02.004
+    3300016: Screen_03.004
+    3300018: Screen_04.004
+    3300020: Screen_05.004
+    3300022: Wall_01_Panel_005.001
+    3300024: //RootNode
+    4300000: Wall_162_2x2
+    4300002: LOD_0.031
+    4300004: LOD_1.017_Plane.000
+    4300006: LOD_0.032
+    4300008: LOD_1.018_Plane.000
+    4300010: LOD_0.033
+    4300012: Screen_01.004
+    4300014: Screen_02.004
+    4300016: Screen_03.004
+    4300018: Screen_04.004
+    4300020: Screen_05.004
+    4300022: LOD_1.022_Plane.000
+    4300024: Wall_01_Panel_005.001
+    7400000: LOD_0.033|bolt_01 v2Action
+    7400002: LOD_0.033|bolt_2 v1Action
+    7400004: LOD_0.033|socket_01 v1.001Action
+    7400006: LOD_0.033|socket_01 v1.001Action.001
+    7400008: LOD_0.033|socket_01 v1.001Action.002
+    7400010: LOD_0.033|socket_01 v1.001Action.003
+    7400012: Screen_01.004|bolt_01 v2Action
+    7400014: Screen_01.004|bolt_2 v1Action
+    7400016: Screen_01.004|socket_01 v1.001Action
+    7400018: Screen_01.004|socket_01 v1.001Action.001
+    7400020: Screen_01.004|socket_01 v1.001Action.002
+    7400022: Screen_01.004|socket_01 v1.001Action.003
+    7400024: Screen_02.004|bolt_01 v2Action
+    7400026: Screen_02.004|bolt_2 v1Action
+    7400028: Screen_02.004|socket_01 v1.001Action
+    7400030: Screen_02.004|socket_01 v1.001Action.001
+    7400032: Screen_02.004|socket_01 v1.001Action.002
+    7400034: Screen_02.004|socket_01 v1.001Action.003
+    7400036: Screen_03.004|bolt_01 v2Action
+    7400038: Screen_03.004|bolt_2 v1Action
+    7400040: Screen_03.004|socket_01 v1.001Action
+    7400042: Screen_03.004|socket_01 v1.001Action.001
+    7400044: Screen_03.004|socket_01 v1.001Action.002
+    7400046: Screen_03.004|socket_01 v1.001Action.003
+    7400048: Screen_04.004|bolt_01 v2Action
+    7400050: Screen_04.004|bolt_2 v1Action
+    7400052: Screen_04.004|socket_01 v1.001Action
+    7400054: Screen_04.004|socket_01 v1.001Action.001
+    7400056: Screen_04.004|socket_01 v1.001Action.002
+    7400058: Screen_04.004|socket_01 v1.001Action.003
+    7400060: Screen_05.004|bolt_01 v2Action
+    7400062: Screen_05.004|bolt_2 v1Action
+    7400064: Screen_05.004|socket_01 v1.001Action
+    7400066: Screen_05.004|socket_01 v1.001Action.001
+    7400068: Screen_05.004|socket_01 v1.001Action.002
+    7400070: Screen_05.004|socket_01 v1.001Action.003
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

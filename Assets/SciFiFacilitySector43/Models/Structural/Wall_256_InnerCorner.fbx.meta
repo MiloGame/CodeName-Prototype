@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 6ee67fa9e4f3d5f47bcd6b8660545a43
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Collider.002
+    100002: Collider.003
+    100004: Collider.004
+    100006: Collider.005
+    100008: Collider.006
+    100010: Wall_250_4x3
+    100012: Wall_250_4x3.002
+    100014: Wall_251_2x3
+    100016: Wall_252_2x3
+    100018: Wall_253_4x3_Cap
+    100020: Wall_255_Corner
+    100022: Wall_256_InnerCorner
+    100024: //RootNode
+    100026: Wall_257_Clamp
+    100028: Wall_260_4x1.5
+    100030: Wall_261_2x1.5
+    100032: Wall_262_1x1.5
+    100034: Wall_263_2x1.5
+    100036: Wall_264_Clamp
+    400000: Collider.002
+    400002: Collider.003
+    400004: Collider.004
+    400006: Collider.005
+    400008: Collider.006
+    400010: Wall_250_4x3
+    400012: Wall_250_4x3.002
+    400014: Wall_251_2x3
+    400016: Wall_252_2x3
+    400018: Wall_253_4x3_Cap
+    400020: Wall_255_Corner
+    400022: Wall_256_InnerCorner
+    400024: //RootNode
+    400026: Wall_257_Clamp
+    400028: Wall_260_4x1.5
+    400030: Wall_261_2x1.5
+    400032: Wall_262_1x1.5
+    400034: Wall_263_2x1.5
+    400036: Wall_264_Clamp
+    2100000: MainColor_02
+    2100002: MainColor_01
+    2100004: No Name
+    2100006: Signs
+    2300000: Collider.002
+    2300002: Collider.003
+    2300004: Collider.004
+    2300006: Collider.005
+    2300008: Collider.006
+    2300010: Wall_250_4x3
+    2300012: Wall_250_4x3.002
+    2300014: Wall_251_2x3
+    2300016: Wall_252_2x3
+    2300018: Wall_253_4x3_Cap
+    2300020: Wall_255_Corner
+    2300022: Wall_256_InnerCorner
+    2300024: Wall_257_Clamp
+    2300026: Wall_260_4x1.5
+    2300028: Wall_261_2x1.5
+    2300030: Wall_262_1x1.5
+    2300032: Wall_263_2x1.5
+    2300034: Wall_264_Clamp
+    2300036: //RootNode
+    3300000: Collider.002
+    3300002: Collider.003
+    3300004: Collider.004
+    3300006: Collider.005
+    3300008: Collider.006
+    3300010: Wall_250_4x3
+    3300012: Wall_250_4x3.002
+    3300014: Wall_251_2x3
+    3300016: Wall_252_2x3
+    3300018: Wall_253_4x3_Cap
+    3300020: Wall_255_Corner
+    3300022: Wall_256_InnerCorner
+    3300024: Wall_257_Clamp
+    3300026: Wall_260_4x1.5
+    3300028: Wall_261_2x1.5
+    3300030: Wall_262_1x1.5
+    3300032: Wall_263_2x1.5
+    3300034: Wall_264_Clamp
+    3300036: //RootNode
+    4300000: Wall_250_4x3
+    4300002: Collider.006
+    4300004: Wall_253_4x3_Cap
+    4300006: Collider.004
+    4300008: Wall_255_Corner
+    4300010: Wall_251_2x3
+    4300012: Collider.002
+    4300014: Wall_252_2x3
+    4300016: Collider.003
+    4300018: Wall_257_Clamp
+    4300020: Collider.005
+    4300022: Wall_260_4x1.5
+    4300024: Wall_262_1x1.5
+    4300026: Wall_261_2x1.5
+    4300028: Wall_263_2x1.5
+    4300030: Wall_264_Clamp
+    4300032: Wall_256_InnerCorner
+    4300034: Wall_250_4x3.002
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

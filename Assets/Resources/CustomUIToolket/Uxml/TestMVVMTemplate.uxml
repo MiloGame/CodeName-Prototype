@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <Style src="project://database/Assets/Resources/CustomUIToolket/Uss/TestMVVM.uss?fileID=7433441132597879392&amp;guid=b56e2cad7c1ce9045881cd109f3b2d2e&amp;type=3#TestMVVM" />
+    <ui:VisualElement name="VisualButton" class="hvr-boarder-outlineout">
+        <ui:VisualElement picking-mode="Ignore" class="hvr-child" />
+        <ui:VisualElement picking-mode="Ignore" class="hvr-background" />
+    </ui:VisualElement>
+</ui:UXML>

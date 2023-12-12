@@ -1,0 +1,16 @@
+[
+  {
+    "UnlockRuleID": 20001,
+    "RuleDiscribe": "需要前置任务%d完成",
+    "TargetVal": null,
+    "FormalTaskID": null,
+    "NPCID": null
+  },
+  {
+    "UnlockRuleID": 20002,
+    "RuleDiscribe": "需要和NPC对话NPC编号%d",
+    "TargetVal": null,
+    "FormalTaskID": null,
+    "NPCID": null
+  }
+]

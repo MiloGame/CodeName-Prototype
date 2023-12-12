@@ -1,0 +1,490 @@
+fileFormatVersion: 2
+guid: ee5918473b9c4314db1834428818b952
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: LOD_0.040
+    100002: LOD_0.047
+    100004: LOD_0.049
+    100006: LOD_0.058
+    100008: LOD_0.061
+    100010: LOD_0.065
+    100012: LOD_0.070
+    100014: LOD_0.093
+    100016: LOD_1.005_Plane.001
+    100018: LOD_1.011_Plane.001
+    100020: LOD_1.017_Plane.001
+    100022: LOD_1.019_Plane.001
+    100024: LOD_1.025_Plane.002
+    100026: LOD_1.027_Plane.001
+    100028: LOD_1.028_Plane.001
+    100030: LOD_1.028_Plane.002
+    100032: Panel_02.002
+    100034: Panel_04.002
+    100036: Panel_13.002
+    100038: Panel_16.004
+    100040: Panel_20.003
+    100042: Panel_23.003
+    100044: Panel_26.002
+    100046: Panel_26.003
+    100048: Screen_01.020
+    100050: Screen_01.040
+    100052: Screen_01.050
+    100054: Screen_02.020
+    100056: Screen_02.040
+    100058: Screen_02.050
+    100060: Screen_03.020
+    100062: Screen_03.040
+    100064: Screen_03.050
+    100066: Screen_04.019
+    100068: Screen_04.039
+    100070: Screen_04.049
+    100072: Screen_05.015
+    100074: Screen_05.032
+    100076: Screen_05.038
+    100078: Screen_06.012
+    100080: Screen_06.029
+    100082: Screen_07.012
+    100084: Screen_07.029
+    100086: Screen_08.012
+    100088: Screen_08.029
+    100090: Screen_09.012
+    100092: Screen_09.029
+    100094: Screen_10.012
+    100096: Screen_10.029
+    100098: //RootNode
+    400000: LOD_0.040
+    400002: LOD_0.047
+    400004: LOD_0.049
+    400006: LOD_0.058
+    400008: LOD_0.061
+    400010: LOD_0.065
+    400012: LOD_0.070
+    400014: LOD_0.093
+    400016: LOD_1.005_Plane.001
+    400018: LOD_1.011_Plane.001
+    400020: LOD_1.017_Plane.001
+    400022: LOD_1.019_Plane.001
+    400024: LOD_1.025_Plane.002
+    400026: LOD_1.027_Plane.001
+    400028: LOD_1.028_Plane.001
+    400030: LOD_1.028_Plane.002
+    400032: Panel_02.002
+    400034: Panel_04.002
+    400036: Panel_13.002
+    400038: Panel_16.004
+    400040: Panel_20.003
+    400042: Panel_23.003
+    400044: Panel_26.002
+    400046: Panel_26.003
+    400048: Screen_01.020
+    400050: Screen_01.040
+    400052: Screen_01.050
+    400054: Screen_02.020
+    400056: Screen_02.040
+    400058: Screen_02.050
+    400060: Screen_03.020
+    400062: Screen_03.040
+    400064: Screen_03.050
+    400066: Screen_04.019
+    400068: Screen_04.039
+    400070: Screen_04.049
+    400072: Screen_05.015
+    400074: Screen_05.032
+    400076: Screen_05.038
+    400078: Screen_06.012
+    400080: Screen_06.029
+    400082: Screen_07.012
+    400084: Screen_07.029
+    400086: Screen_08.012
+    400088: Screen_08.029
+    400090: Screen_09.012
+    400092: Screen_09.029
+    400094: Screen_10.012
+    400096: Screen_10.029
+    400098: //RootNode
+    2100000: MainColor_01
+    2100002: Controls
+    2100004: Controls_LOD.003
+    2100006: ScreenUI
+    2300000: LOD_0.040
+    2300002: LOD_0.047
+    2300004: LOD_0.049
+    2300006: LOD_0.058
+    2300008: LOD_0.061
+    2300010: LOD_0.065
+    2300012: LOD_0.070
+    2300014: LOD_0.093
+    2300016: LOD_1.005_Plane.001
+    2300018: LOD_1.011_Plane.001
+    2300020: LOD_1.017_Plane.001
+    2300022: LOD_1.019_Plane.001
+    2300024: LOD_1.025_Plane.002
+    2300026: LOD_1.027_Plane.001
+    2300028: LOD_1.028_Plane.001
+    2300030: LOD_1.028_Plane.002
+    2300032: Screen_01.020
+    2300034: Screen_01.040
+    2300036: Screen_01.050
+    2300038: Screen_02.020
+    2300040: Screen_02.040
+    2300042: Screen_02.050
+    2300044: Screen_03.020
+    2300046: Screen_03.040
+    2300048: Screen_03.050
+    2300050: Screen_04.019
+    2300052: Screen_04.039
+    2300054: Screen_04.049
+    2300056: Screen_05.015
+    2300058: Screen_05.032
+    2300060: Screen_05.038
+    2300062: Screen_06.012
+    2300064: Screen_06.029
+    2300066: Screen_07.012
+    2300068: Screen_07.029
+    2300070: Screen_08.012
+    2300072: Screen_08.029
+    2300074: Screen_09.012
+    2300076: Screen_09.029
+    2300078: Screen_10.012
+    2300080: Screen_10.029
+    2300082: //RootNode
+    3300000: LOD_0.040
+    3300002: LOD_0.047
+    3300004: LOD_0.049
+    3300006: LOD_0.058
+    3300008: LOD_0.061
+    3300010: LOD_0.065
+    3300012: LOD_0.070
+    3300014: LOD_0.093
+    3300016: LOD_1.005_Plane.001
+    3300018: LOD_1.011_Plane.001
+    3300020: LOD_1.017_Plane.001
+    3300022: LOD_1.019_Plane.001
+    3300024: LOD_1.025_Plane.002
+    3300026: LOD_1.027_Plane.001
+    3300028: LOD_1.028_Plane.001
+    3300030: LOD_1.028_Plane.002
+    3300032: Screen_01.020
+    3300034: Screen_01.040
+    3300036: Screen_01.050
+    3300038: Screen_02.020
+    3300040: Screen_02.040
+    3300042: Screen_02.050
+    3300044: Screen_03.020
+    3300046: Screen_03.040
+    3300048: Screen_03.050
+    3300050: Screen_04.019
+    3300052: Screen_04.039
+    3300054: Screen_04.049
+    3300056: Screen_05.015
+    3300058: Screen_05.032
+    3300060: Screen_05.038
+    3300062: Screen_06.012
+    3300064: Screen_06.029
+    3300066: Screen_07.012
+    3300068: Screen_07.029
+    3300070: Screen_08.012
+    3300072: Screen_08.029
+    3300074: Screen_09.012
+    3300076: Screen_09.029
+    3300078: Screen_10.012
+    3300080: Screen_10.029
+    3300082: //RootNode
+    4300000: Wall_113_ControlPanel_1x3
+    4300002: LOD_0.047
+    4300004: LOD_1.019_Plane.001
+    4300006: LOD_0.049
+    4300008: LOD_1.011_Plane.001
+    4300010: LOD_0.058
+    4300012: LOD_1.005_Plane.001
+    4300014: LOD_0.061
+    4300016: LOD_1.025_Plane.002
+    4300018: LOD_0.065
+    4300020: LOD_1.017_Plane.001
+    4300022: LOD_0.040
+    4300024: Screen_01.020
+    4300026: Screen_02.020
+    4300028: Screen_03.020
+    4300030: Screen_04.019
+    4300032: Screen_05.015
+    4300034: LOD_1.027_Plane.001
+    4300036: LOD_0.070
+    4300038: Screen_02.040
+    4300040: Screen_01.040
+    4300042: Screen_09.012
+    4300044: Screen_08.012
+    4300046: Screen_07.012
+    4300048: Screen_06.012
+    4300050: Screen_05.032
+    4300052: Screen_04.039
+    4300054: Screen_03.040
+    4300056: Screen_10.012
+    4300058: LOD_1.028_Plane.001
+    4300060: LOD_0.093
+    4300062: Screen_02.050
+    4300064: Screen_01.050
+    4300066: Screen_09.029
+    4300068: Screen_08.029
+    4300070: Screen_07.029
+    4300072: Screen_06.029
+    4300074: Screen_05.038
+    4300076: Screen_04.049
+    4300078: Screen_03.050
+    4300080: Screen_10.029
+    4300082: LOD_1.028_Plane.002
+    7400000: LOD_0.040|bolt_01 v2Action
+    7400002: LOD_0.040|bolt_2 v1Action
+    7400004: LOD_0.040|socket_01 v1.001Action
+    7400006: LOD_0.040|socket_01 v1.001Action.001
+    7400008: LOD_0.040|socket_01 v1.001Action.002
+    7400010: LOD_0.040|socket_01 v1.001Action.003
+    7400012: Screen_01.020|bolt_01 v2Action
+    7400014: Screen_01.020|bolt_2 v1Action
+    7400016: Screen_01.020|socket_01 v1.001Action
+    7400018: Screen_01.020|socket_01 v1.001Action.001
+    7400020: Screen_01.020|socket_01 v1.001Action.002
+    7400022: Screen_01.020|socket_01 v1.001Action.003
+    7400024: Screen_02.020|bolt_01 v2Action
+    7400026: Screen_02.020|bolt_2 v1Action
+    7400028: Screen_02.020|socket_01 v1.001Action
+    7400030: Screen_02.020|socket_01 v1.001Action.001
+    7400032: Screen_02.020|socket_01 v1.001Action.002
+    7400034: Screen_02.020|socket_01 v1.001Action.003
+    7400036: Screen_03.020|bolt_01 v2Action
+    7400038: Screen_03.020|bolt_2 v1Action
+    7400040: Screen_03.020|socket_01 v1.001Action
+    7400042: Screen_03.020|socket_01 v1.001Action.001
+    7400044: Screen_03.020|socket_01 v1.001Action.002
+    7400046: Screen_03.020|socket_01 v1.001Action.003
+    7400048: Screen_04.019|bolt_01 v2Action
+    7400050: Screen_04.019|bolt_2 v1Action
+    7400052: Screen_04.019|socket_01 v1.001Action
+    7400054: Screen_04.019|socket_01 v1.001Action.001
+    7400056: Screen_04.019|socket_01 v1.001Action.002
+    7400058: Screen_04.019|socket_01 v1.001Action.003
+    7400060: LOD_0.049|bolt_01 v2Action
+    7400062: LOD_0.049|bolt_2 v1Action
+    7400064: LOD_0.049|socket_01 v1.001Action
+    7400066: LOD_0.049|socket_01 v1.001Action.001
+    7400068: LOD_0.049|socket_01 v1.001Action.002
+    7400070: LOD_0.049|socket_01 v1.001Action.003
+    7400072: LOD_0.058|bolt_01 v2Action
+    7400074: LOD_0.058|bolt_2 v1Action
+    7400076: LOD_0.058|socket_01 v1.001Action
+    7400078: LOD_0.058|socket_01 v1.001Action.001
+    7400080: LOD_0.058|socket_01 v1.001Action.002
+    7400082: LOD_0.058|socket_01 v1.001Action.003
+    7400084: Screen_05.015|bolt_01 v2Action
+    7400086: Screen_05.015|bolt_2 v1Action
+    7400088: Screen_05.015|socket_01 v1.001Action
+    7400090: Screen_05.015|socket_01 v1.001Action.001
+    7400092: Screen_05.015|socket_01 v1.001Action.002
+    7400094: Screen_05.015|socket_01 v1.001Action.003
+    7400096: Screen_02.040|bolt_01 v2Action
+    7400098: Screen_02.040|bolt_2 v1Action
+    7400100: Screen_02.040|socket_01 v1.001Action
+    7400102: Screen_02.040|socket_01 v1.001Action.001
+    7400104: Screen_02.040|socket_01 v1.001Action.002
+    7400106: Screen_02.040|socket_01 v1.001Action.003
+    7400108: Screen_01.040|bolt_01 v2Action
+    7400110: Screen_01.040|bolt_2 v1Action
+    7400112: Screen_01.040|socket_01 v1.001Action
+    7400114: Screen_01.040|socket_01 v1.001Action.001
+    7400116: Screen_01.040|socket_01 v1.001Action.002
+    7400118: Screen_01.040|socket_01 v1.001Action.003
+    7400120: Screen_09.012|bolt_01 v2Action
+    7400122: Screen_09.012|bolt_2 v1Action
+    7400124: Screen_09.012|socket_01 v1.001Action
+    7400126: Screen_09.012|socket_01 v1.001Action.001
+    7400128: Screen_09.012|socket_01 v1.001Action.002
+    7400130: Screen_09.012|socket_01 v1.001Action.003
+    7400132: Screen_08.012|bolt_01 v2Action
+    7400134: Screen_08.012|bolt_2 v1Action
+    7400136: Screen_08.012|socket_01 v1.001Action
+    7400138: Screen_08.012|socket_01 v1.001Action.001
+    7400140: Screen_08.012|socket_01 v1.001Action.002
+    7400142: Screen_08.012|socket_01 v1.001Action.003
+    7400144: Screen_07.012|bolt_01 v2Action
+    7400146: Screen_07.012|bolt_2 v1Action
+    7400148: Screen_07.012|socket_01 v1.001Action
+    7400150: Screen_07.012|socket_01 v1.001Action.001
+    7400152: Screen_07.012|socket_01 v1.001Action.002
+    7400154: Screen_07.012|socket_01 v1.001Action.003
+    7400156: Screen_06.012|bolt_01 v2Action
+    7400158: Screen_06.012|bolt_2 v1Action
+    7400160: Screen_06.012|socket_01 v1.001Action
+    7400162: Screen_06.012|socket_01 v1.001Action.001
+    7400164: Screen_06.012|socket_01 v1.001Action.002
+    7400166: Screen_06.012|socket_01 v1.001Action.003
+    7400168: Screen_05.032|bolt_01 v2Action
+    7400170: Screen_05.032|bolt_2 v1Action
+    7400172: Screen_05.032|socket_01 v1.001Action
+    7400174: Screen_05.032|socket_01 v1.001Action.001
+    7400176: Screen_05.032|socket_01 v1.001Action.002
+    7400178: Screen_05.032|socket_01 v1.001Action.003
+    7400180: Screen_04.039|bolt_01 v2Action
+    7400182: Screen_04.039|bolt_2 v1Action
+    7400184: Screen_04.039|socket_01 v1.001Action
+    7400186: Screen_04.039|socket_01 v1.001Action.001
+    7400188: Screen_04.039|socket_01 v1.001Action.002
+    7400190: Screen_04.039|socket_01 v1.001Action.003
+    7400192: Screen_03.040|bolt_01 v2Action
+    7400194: Screen_03.040|bolt_2 v1Action
+    7400196: Screen_03.040|socket_01 v1.001Action
+    7400198: Screen_03.040|socket_01 v1.001Action.001
+    7400200: Screen_03.040|socket_01 v1.001Action.002
+    7400202: Screen_03.040|socket_01 v1.001Action.003
+    7400204: Screen_10.012|bolt_01 v2Action
+    7400206: Screen_10.012|bolt_2 v1Action
+    7400208: Screen_10.012|socket_01 v1.001Action
+    7400210: Screen_10.012|socket_01 v1.001Action.001
+    7400212: Screen_10.012|socket_01 v1.001Action.002
+    7400214: Screen_10.012|socket_01 v1.001Action.003
+    7400216: Screen_02.050|bolt_01 v2Action
+    7400218: Screen_02.050|bolt_2 v1Action
+    7400220: Screen_02.050|socket_01 v1.001Action
+    7400222: Screen_02.050|socket_01 v1.001Action.001
+    7400224: Screen_02.050|socket_01 v1.001Action.002
+    7400226: Screen_02.050|socket_01 v1.001Action.003
+    7400228: Screen_01.050|bolt_01 v2Action
+    7400230: Screen_01.050|bolt_2 v1Action
+    7400232: Screen_01.050|socket_01 v1.001Action
+    7400234: Screen_01.050|socket_01 v1.001Action.001
+    7400236: Screen_01.050|socket_01 v1.001Action.002
+    7400238: Screen_01.050|socket_01 v1.001Action.003
+    7400240: Screen_09.029|bolt_01 v2Action
+    7400242: Screen_09.029|bolt_2 v1Action
+    7400244: Screen_09.029|socket_01 v1.001Action
+    7400246: Screen_09.029|socket_01 v1.001Action.001
+    7400248: Screen_09.029|socket_01 v1.001Action.002
+    7400250: Screen_09.029|socket_01 v1.001Action.003
+    7400252: Screen_08.029|bolt_01 v2Action
+    7400254: Screen_08.029|bolt_2 v1Action
+    7400256: Screen_08.029|socket_01 v1.001Action
+    7400258: Screen_08.029|socket_01 v1.001Action.001
+    7400260: Screen_08.029|socket_01 v1.001Action.002
+    7400262: Screen_08.029|socket_01 v1.001Action.003
+    7400264: Screen_07.029|bolt_01 v2Action
+    7400266: Screen_07.029|bolt_2 v1Action
+    7400268: Screen_07.029|socket_01 v1.001Action
+    7400270: Screen_07.029|socket_01 v1.001Action.001
+    7400272: Screen_07.029|socket_01 v1.001Action.002
+    7400274: Screen_07.029|socket_01 v1.001Action.003
+    7400276: Screen_06.029|bolt_01 v2Action
+    7400278: Screen_06.029|bolt_2 v1Action
+    7400280: Screen_06.029|socket_01 v1.001Action
+    7400282: Screen_06.029|socket_01 v1.001Action.001
+    7400284: Screen_06.029|socket_01 v1.001Action.002
+    7400286: Screen_06.029|socket_01 v1.001Action.003
+    7400288: Screen_05.038|bolt_01 v2Action
+    7400290: Screen_05.038|bolt_2 v1Action
+    7400292: Screen_05.038|socket_01 v1.001Action
+    7400294: Screen_05.038|socket_01 v1.001Action.001
+    7400296: Screen_05.038|socket_01 v1.001Action.002
+    7400298: Screen_05.038|socket_01 v1.001Action.003
+    7400300: Screen_04.049|bolt_01 v2Action
+    7400302: Screen_04.049|bolt_2 v1Action
+    7400304: Screen_04.049|socket_01 v1.001Action
+    7400306: Screen_04.049|socket_01 v1.001Action.001
+    7400308: Screen_04.049|socket_01 v1.001Action.002
+    7400310: Screen_04.049|socket_01 v1.001Action.003
+    7400312: Screen_03.050|bolt_01 v2Action
+    7400314: Screen_03.050|bolt_2 v1Action
+    7400316: Screen_03.050|socket_01 v1.001Action
+    7400318: Screen_03.050|socket_01 v1.001Action.001
+    7400320: Screen_03.050|socket_01 v1.001Action.002
+    7400322: Screen_03.050|socket_01 v1.001Action.003
+    7400324: Screen_10.029|bolt_01 v2Action
+    7400326: Screen_10.029|bolt_2 v1Action
+    7400328: Screen_10.029|socket_01 v1.001Action
+    7400330: Screen_10.029|socket_01 v1.001Action.001
+    7400332: Screen_10.029|socket_01 v1.001Action.002
+    7400334: Screen_10.029|socket_01 v1.001Action.003
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LitTrail01
+  m_Shader: {fileID: -6465566751694194690, guid: 13f11106becdd0d459870528c9ddf606, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Albedo:
+        m_Texture: {fileID: 2800000, guid: f7c8dc1ede99c6c44a0e95479b458c26, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Emission:
+        m_Texture: {fileID: 2800000, guid: 2fe5efaf688d02e4da7868a216126580, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 2800000, guid: 01e9d21d6d3e7514fb37f1f3691ac2d0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_ab304c79311545c0a07aec218507cc47_Out_0_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 05cda407c12da774c975bce33082f592, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Ambient: 4
+    - _BUILTIN_QueueControl: 0
+    - _BUILTIN_QueueOffset: 0
+    - _Dissolve: 0
+    - _EdgeWidth: 0.01
+    - _Float: 1.805
+    - _FresnelPower: 0.35
+    - _GlowingAmount: 1
+    - _GlowingPower: 2.8
+    - _Height: 1.805
+    - _IsDash: 0
+    - _MehHeight: 1
+    - _Metallic: 0.63
+    - _Smoothness: 0
+    m_Colors:
+    - _Color: {r: 7.9999995, g: 7.9999995, b: 7.9999995, a: 1}
+    - _EdgeColor: {r: 0, g: 0.3935645, b: 25.056604, a: 1}
+    - _GlowingColor: {r: 0.018018804, g: 0.018018804, b: 0.7207521, a: 1}
+    - _MeshHeight: {r: 0, g: 1.805, b: 0, a: 0}
+  m_BuildTextureStacks: []
+--- !u!114 &2462714521198395522
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 639247ca83abc874e893eb93af2b5e44, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 0

@@ -1,0 +1,38 @@
+[
+  {
+    "TaskID": 10001,
+    "TaskTitle": "拯救空间站危机其一-消灭入侵者",
+    "TaskDescription": "消灭入侵的敌人10个",
+    "UnlockRule": -1,
+    "FinishRule": "30001%10",
+    "Award": null,
+    "Status": 0
+  },
+  {
+    "TaskID": 10002,
+    "TaskTitle": "拯救空间站危机其二-探索区域",
+    "TaskDescription": "解锁区域3个",
+    "UnlockRule": "20001%10001",
+    "FinishRule": "30004%3",
+    "Award": null,
+    "Status": 0
+  },
+  {
+    "TaskID": 10003,
+    "TaskTitle": "拯救空间站危机其三-复原舱室",
+    "TaskDescription": "与npc对话复原舱室,搬运四个箱子到原位",
+    "UnlockRule": "20001%10002&20001%10001&20002%90001",
+    "FinishRule": "30003%4",
+    "Award": null,
+    "Status": 0
+  },
+  {
+    "TaskID": 10004,
+    "TaskTitle": "拯救空间站危机其四-决战最终话",
+    "TaskDescription": "消灭最终boss",
+    "UnlockRule": "20001%10003",
+    "FinishRule": "30002%1",
+    "Award": null,
+    "Status": 0
+  }
+]

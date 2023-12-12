@@ -1,0 +1,16 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/Editor/SkillEditorFolder/SkillEditor.uss?fileID=7433441132597879392&amp;guid=1739ce4a1dabb8c428ed7c35a9cb78a1&amp;type=3#SkillEditor" />
+    <SplitView fixed-pane-initial-dimension="300">
+        <ui:ScrollView name="left-panel">
+            <ui:Label tabindex="-1" text="Inspect" display-tooltip-when-elided="true" style="background-color: rgba(40, 40, 40, 0); color: rgb(255, 255, 255);" />
+            <ui:Button text="LoadData" display-tooltip-when-elided="true" name="LoadButton" style="color: rgb(255, 255, 255);" />
+            <ui:TextField picking-mode="Ignore" label="FileName" style="color: rgb(255, 255, 255);" />
+            <ui:IMGUIContainer />
+            <ui:Button text="SaveData" display-tooltip-when-elided="true" name="SaveButton" />
+        </ui:ScrollView>
+        <ui:VisualElement name="right-panel" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0);">
+            <ui:Label tabindex="-1" text="Skill Editor View" display-tooltip-when-elided="true" style="color: rgb(255, 255, 255); font-size: 14px; background-color: rgba(40, 40, 40, 0);" />
+            <SkillGraphView focusable="true" style="flex-grow: 1;" />
+        </ui:VisualElement>
+    </SplitView>
+</ui:UXML>

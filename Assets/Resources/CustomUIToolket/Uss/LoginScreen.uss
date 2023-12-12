@@ -1,0 +1,601 @@
+.baseelem {
+    flex-grow: 1;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.setting-panel {
+    right: 10px;
+    top: 5px;
+    align-items: center;
+    align-self: flex-end;
+    justify-content: space-around;
+    height: 50%;
+    transition-property: translate;
+    transition-duration: 0.25s;
+    transition-timing-function: ease-in;
+}
+
+#notice-button {
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#notice-button .icon-default {
+    -unity-font-definition: url('project://database/Assets/UIArts/MaterialIcons/MaterialIcons-Regular%20SDF.asset?fileID=11400000&guid=3375725d038840c4d916a4bf09c95321&type=2#MaterialIcons-Regular SDF');
+    font-size: 70px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    -unity-font-style: normal;
+    width: 10%;
+    height: 10%;
+    color: rgb(255, 255, 255);
+    transform-origin: top;
+    transition-duration: 0.15s, 0.15s;
+    transition-timing-function: linear, linear;
+    transition-property: color, rotate;
+}
+
+#notice-button .icon-background {
+    flex-grow: 1;
+    width: 100%;
+    height: 100%;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+
+#notice-button .icon-text {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    -unity-font-style: bold;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+#update-button {
+    width: 100px;
+    height: 100px;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#update-button .icon-background {
+    flex-grow: 1;
+    width: 100%;
+    height: 100%;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+
+#update-button .icon-text {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    -unity-font-style: bold;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+#logout-button {
+    width: 100px;
+    height: 100px;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#logout-button .icon-default {
+    -unity-font-definition: url('project://database/Assets/UIArts/MaterialIcons/MaterialIcons-Regular%20SDF.asset?fileID=11400000&guid=3375725d038840c4d916a4bf09c95321&type=2#MaterialIcons-Regular SDF');
+    font-size: 70px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    -unity-font-style: normal;
+    width: 70px;
+    height: 70px;
+    color: rgb(255, 255, 255);
+    transition-property: translate;
+    transition-duration: 0.25s;
+    transition-timing-function: ease-in-sine;
+}
+
+#logout-button .icon-background {
+    flex-grow: 1;
+    width: 100%;
+    height: 100%;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+
+#logout-button .icon-text {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    -unity-font-style: bold;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+#exit-button {
+    width: 100px;
+    height: 100px;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#exit-button .icon-default {
+    -unity-font-definition: url('project://database/Assets/UIArts/MaterialIcons/MaterialIcons-Regular%20SDF.asset?fileID=11400000&guid=3375725d038840c4d916a4bf09c95321&type=2#MaterialIcons-Regular SDF');
+    font-size: 70px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    -unity-font-style: normal;
+    width: 70px;
+    height: 70px;
+    color: rgb(255, 255, 255);
+    transition-property: scale, color;
+    transition-timing-function: ease-in-bounce, linear;
+    transition-duration: 0.25s, 0.25s;
+}
+
+#exit-button .icon-background {
+    flex-grow: 1;
+    width: 100%;
+    height: 100%;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+
+#exit-button .icon-text {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    -unity-font-style: bold;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+.icon-default-step-one {
+    rotate: 8deg;
+    transform-origin: top;
+    transition-property: color, rotate;
+    transition-duration: 0.15s, 0.15s;
+    transition-timing-function: linear, linear;
+    color: rgb(255, 255, 0);
+}
+
+.icon-default-step-two {
+    transform-origin: top;
+    rotate: -8deg;
+    transition-duration: 0.15s, 0.15s;
+    transition-timing-function: linear, linear;
+    transition-property: color, rotate;
+    color: rgb(234, 255, 0);
+}
+
+#update-button .icon-default {
+    -unity-font-definition: url('project://database/Assets/UIArts/MaterialIcons/MaterialIcons-Regular%20SDF.asset?fileID=11400000&guid=3375725d038840c4d916a4bf09c95321&type=2#MaterialIcons-Regular SDF');
+    font-size: 70px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    -unity-font-style: normal;
+    width: 70px;
+    height: 70px;
+    color: rgb(255, 255, 255);
+}
+
+#update-button:hover .icon-default {
+    rotate: 360deg;
+    transition-duration: 1s;
+    transition-property: rotate;
+    transition-timing-function: ease-out;
+}
+
+#logout-button:hover .icon-default {
+    translate: 24px 0;
+    transition-property: translate;
+    transition-timing-function: ease-out-bounce;
+    transition-duration: 0.5s;
+}
+
+#exit-button:hover .icon-default {
+    scale: 1.25 1.25;
+    color: rgb(255, 0, 0);
+    transition-property: scale, color;
+    transition-timing-function: ease-out-bounce, linear;
+    transition-duration: 0.5s, 0.5s;
+}
+
+#exit-button:hover .icon-text {
+    scale: 1.25 1.25;
+    color: rgb(255, 0, 0);
+    transition-property: scale, color;
+    transition-timing-function: ease-out-bounce, linear;
+    transition-duration: 0.5s, 0.5s;
+}
+
+#BaseElem .start-fill {
+    background-image: url('project://database/Assets/UIArts/gradient%20black%20.png?fileID=2800000&guid=00f71ff549ee7a245841c97407a9a754&type=3#gradient black ');
+    -unity-background-image-tint-color: rgba(46, 28, 28, 0.6);
+    overflow: hidden;
+    width: 0;
+    height: 100%;
+    transition-property: width;
+    transition-duration: 0.25s;
+    transition-timing-function: linear;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+}
+
+#Logwindow:hover .start-fill {
+    background-image: url('project://database/Assets/UIArts/gradient%20black%20.png?fileID=2800000&guid=00f71ff549ee7a245841c97407a9a754&type=3#gradient black ');
+    -unity-background-image-tint-color: rgba(46, 28, 28, 0.6);
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    transition-property: width;
+    transition-duration: 0.25s;
+    transition-timing-function: linear;
+    transition-delay: 0.5s;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+}
+
+.pop-yes {
+    position: absolute;
+    top: 60%;
+    left: 30%;
+    -unity-font-definition: url('project://database/Assets/UIArts/MaterialIcons/MaterialIcons-Regular%20SDF.asset?fileID=11400000&guid=3375725d038840c4d916a4bf09c95321&type=2#MaterialIcons-Regular SDF');
+    color: rgb(233, 10, 10);
+    font-size: 60px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    -unity-font-style: normal;
+}
+
+.pop-no {
+    top: 60%;
+    right: 30%;
+    position: absolute;
+    -unity-font-definition: url('project://database/Assets/UIArts/MaterialIcons/MaterialIcons-Regular%20SDF.asset?fileID=11400000&guid=3375725d038840c4d916a4bf09c95321&type=2#MaterialIcons-Regular SDF');
+    color: rgb(22, 156, 22);
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    font-size: 60px;
+}
+
+.pop-yes:hover {
+    scale: 1.5 1.5;
+    rotate: 360deg;
+    transition-duration: 0.5s;
+}
+
+.pop-no:hover {
+    scale: 1.5 1.5;
+    rotate: 360deg;
+    transition-duration: 0.5s;
+}
+
+.popwindow-final {
+    flex-grow: 1;
+    height: 350px;
+    width: 600px;
+    background-image: none;
+    -unity-background-scale-mode: stretch-to-fill;
+    background-color: rgb(51, 51, 54);
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    position: absolute;
+    justify-content: flex-start;
+    align-items: center;
+    translate: 0 0;
+    transition-property: translate;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-out-sine;
+}
+
+.popwindow-init {
+    translate: 0 250%;
+    transition-property: translate;
+    transition-timing-function: ease-out-elastic;
+    transition-duration: 0.35s;
+}
+
+.setting-panel-out {
+    translate: 130px 0;
+    transition-property: translate;
+    transition-duration: 0.25s;
+    transition-timing-function: ease-out;
+}
+
+.custom-play-tab {
+    width: 350px;
+    height: 80px;
+    background-color: rgb(0, 0, 0);
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    transition-duration: 0.65s;
+    transition-timing-function: ease-out-bounce;
+    transition-property: translate;
+}
+
+.custom-play-tab:hover {
+    background-color: rgb(255, 255, 255);
+}
+
+.custom-tab-text {
+    position: absolute;
+    left: 40%;
+    height: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    -unity-text-align: middle-center;
+}
+
+.custom-tab-icon {
+    position: absolute;
+    height: 100%;
+    width: 80px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    -unity-font-definition: url('project://database/Assets/UIArts/MaterialIcons/MaterialIcons-Regular%20SDF.asset?fileID=11400000&guid=3375725d038840c4d916a4bf09c95321&type=2#MaterialIcons-Regular SDF');
+    color: rgb(255, 255, 255);
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    font-size: 70px;
+    -unity-text-align: middle-center;
+    left: 10%;
+}
+
+.custom-tab-fill {
+    width: 0;
+    height: 100%;
+    flex-grow: 1;
+    background-color: rgb(0, 255, 199);
+    transition-property: width;
+    transition-duration: 0.25s;
+    transition-timing-function: linear;
+}
+
+.custom-tab-fill-click {
+    width: 100%;
+    transition-timing-function: linear;
+    transition-property: width;
+    transition-duration: 0.25s;
+}
+
+.custom-play-tab:hover .custom-tab-icon {
+    color: rgb(0, 0, 0);
+}
+
+.custom-play-tab:focus .custom-tab-icon {
+    color: rgb(0, 0, 0);
+}
+
+.custom-play-tab:hover .custom-tab-text {
+    color: rgb(0, 0, 0);
+}
+
+.custom-play-tab:focus .custom-tab-text {
+    color: rgb(0, 0, 0);
+}
+
+.custom-shop-tab {
+    width: 350px;
+    height: 80px;
+    background-color: rgb(0, 0, 0);
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    transition-duration: 0.65s;
+    transition-timing-function: ease-out-bounce;
+    transition-property: translate;
+}
+
+.custom-shop-tab:hover .custom-tab-icon {
+    color: rgb(0, 0, 0);
+}
+
+.custom-shop-tab:focus .custom-tab-icon {
+    color: rgb(0, 0, 0);
+}
+
+.custom-shop-tab:hover .custom-tab-text {
+    color: rgb(0, 0, 0);
+}
+
+.custom-shop-tab:focus .custom-tab-text {
+    color: rgb(0, 0, 0);
+}
+
+.custom-setting-tab {
+    width: 350px;
+    height: 80px;
+    background-color: rgb(0, 0, 0);
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    transition-duration: 0.65s;
+    transition-timing-function: ease-out-bounce;
+    transition-property: translate;
+}
+
+.custom-setting-tab:hover .custom-tab-icon {
+    color: rgb(0, 0, 0);
+}
+
+.custom-setting-tab:focus .custom-tab-icon {
+    color: rgb(0, 0, 0);
+}
+
+.custom-setting-tab:hover .custom-tab-text {
+    color: rgb(0, 0, 0);
+}
+
+.custom-setting-tab:focus .custom-tab-text {
+    color: rgb(0, 0, 0);
+}
+
+.custom-heros-tab {
+    width: 350px;
+    height: 80px;
+    background-color: rgb(0, 0, 0);
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    transition-property: translate;
+    transition-duration: 0.65s;
+    transition-timing-function: ease-out-bounce;
+}
+
+.custom-heros-tab:hover .custom-tab-icon {
+    color: rgb(0, 0, 0);
+}
+
+.custom-heros-tab:focus .custom-tab-icon {
+    color: rgb(0, 0, 0);
+}
+
+.custom-heros-tab:hover .custom-tab-text {
+    color: rgb(0, 0, 0);
+}
+
+.custom-heros-tab:focus .custom-tab-text {
+    color: rgb(0, 0, 0);
+}
+
+.custom-heros-tab:hover {
+    background-color: rgb(255, 255, 255);
+}
+
+.custom-setting-tab:hover {
+    background-color: rgb(255, 255, 255);
+}
+
+.custom-shop-tab:hover {
+    background-color: rgb(255, 255, 255);
+}
+
+.custom-playtab-init {
+    translate: -130% 0;
+    transition-duration: 0.1s;
+    transition-property: translate;
+}
+
+.custom-shoptab-init {
+    translate: -130% 0;
+    transition-property: translate;
+    transition-duration: 0.1s;
+}
+
+.custom-settingtab-init {
+    translate: -130% 0;
+    transition-property: translate;
+    transition-duration: 0.1s;
+}
+
+.custom-herotab-init {
+    translate: -130% 0;
+    transition-property: translate;
+    transition-duration: 0.1s;
+    transition-timing-function: ease-out-bounce;
+}

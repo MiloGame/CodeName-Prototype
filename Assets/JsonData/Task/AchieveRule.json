@@ -1,0 +1,26 @@
+[
+  {
+    "FinishRuleID": 30001,
+    "RuleDiscribe": "击败%d个普通敌人",
+    "TargetVal": null,
+    "IsBossDefated": null
+  },
+  {
+    "FinishRuleID": 30002,
+    "RuleDiscribe": "击败boss",
+    "TargetVal": null,
+    "IsBossDefated": null
+  },
+  {
+    "FinishRuleID": 30003,
+    "RuleDiscribe": "搬运%d个箱子",
+    "TargetVal": null,
+    "IsBossDefated": null
+  },
+  {
+    "FinishRuleID": 30004,
+    "RuleDiscribe": "解锁%d个区域",
+    "TargetVal": null,
+    "IsBossDefated": null
+  }
+]

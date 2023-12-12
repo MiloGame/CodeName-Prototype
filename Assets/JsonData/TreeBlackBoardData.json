@@ -1,0 +1,23 @@
+{
+  "AiInfo": {
+    "startHealth": 100.0,
+    "currentHealth": 100.0,
+    "preHealth": 100.0,
+    "lowHealthTheshold": 10.0,
+    "healingRate": 2.0,
+    "chasingRange": 0.0,
+    "shootingRange": 0.0
+  },
+  "miniChasingTheshold": 1.0,
+  "AiHealthTheshold": 30.0,
+  "miniMoveTheshold": 1.0,
+  "avaliableCovers": [],
+  "FindCoverRadius": 5.0,
+  "FindCoverOffset": 2.0,
+  "FindObjDefaultHeight": 0.5,
+  "FindObjDefaultDepth": 5.0,
+  "rangeTheshold": 5.0,
+  "maxChasingTheshold": 15.0,
+  "patrolRadius": 4.0,
+  "patrolNums": 5
+}

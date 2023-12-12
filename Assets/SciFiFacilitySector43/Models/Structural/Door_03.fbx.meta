@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: a696e76834baecc4fb8ac55e39587a36
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Handle_02.001
+    100004: Handle_02.002
+    100006: Latch_10.001
+    100008: Latch_10.002
+    100010: Light_1
+    100012: Light_2
+    100014: NumPad
+    100016: Wing_1
+    100018: Wing_2
+    100020: Handle_1
+    100022: Handle_1_Base
+    100024: Handle_2
+    100026: Handle_2_Base
+    400000: //RootNode
+    400002: Handle_02.001
+    400004: Handle_02.002
+    400006: Latch_10.001
+    400008: Latch_10.002
+    400010: Light_1
+    400012: Light_2
+    400014: NumPad
+    400016: Wing_1
+    400018: Wing_2
+    400020: Handle_1
+    400022: Handle_1_Base
+    400024: Handle_2
+    400026: Handle_2_Base
+    2100000: MainColor_01
+    2100002: MainColor_02
+    2100004: Labels
+    2100006: MainColor_03
+    2100008: Signs
+    2100010: Glass
+    2100012: Props_small
+    2100014: Controls
+    2100016: ScreenUI
+    2100018: Decals_2
+    2300000: //RootNode
+    2300002: Handle_02.001
+    2300004: Handle_02.002
+    2300006: Latch_10.001
+    2300008: Latch_10.002
+    2300010: Light_1
+    2300012: Light_2
+    2300014: NumPad
+    2300016: Wing_1
+    2300018: Wing_2
+    2300020: Handle_1
+    2300022: Handle_1_Base
+    2300024: Handle_2
+    2300026: Handle_2_Base
+    3300000: //RootNode
+    3300002: Handle_02.001
+    3300004: Handle_02.002
+    3300006: Latch_10.001
+    3300008: Latch_10.002
+    3300010: Light_1
+    3300012: Light_2
+    3300014: NumPad
+    3300016: Wing_1
+    3300018: Wing_2
+    3300020: Handle_1
+    3300022: Handle_1_Base
+    3300024: Handle_2
+    3300026: Handle_2_Base
+    4300000: Door_03
+    4300002: Wing_1
+    4300004: Latch_10.001
+    4300006: Handle_02.001
+    4300008: NumPad
+    4300010: Light_2
+    4300012: Wing_2
+    4300014: Latch_10.002
+    4300016: Handle_02.002
+    4300018: Light_1
+    4300020: Handle_1_Base
+    4300022: Handle_1
+    4300024: Handle_2_Base
+    4300026: Handle_2
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

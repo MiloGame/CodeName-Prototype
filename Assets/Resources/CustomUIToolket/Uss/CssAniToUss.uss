@@ -1,0 +1,491 @@
+.hvr-fade {
+    align-self: center;
+    overflow: hidden;
+    width: 20%;
+    transition-duration: 0.3s;
+    background-color: rgb(255, 255, 255);
+    transition-property: background-color;
+    transition-timing-function: ease-in;
+}
+
+.hvr-fade:hover {
+    align-self: center;
+    overflow: hidden;
+    width: 20%;
+    transition-duration: 0.3s;
+    background-color: rgb(32, 152, 209);
+    transition-property: background-color;
+    transition-timing-function: ease-in;
+}
+
+.hvr-back-pulse {
+    align-self: center;
+    overflow: hidden;
+    width: 20%;
+    height: 60px;
+    transition-duration: 0.5s;
+    transition-property: background-color;
+    transition-timing-function: linear;
+    background-color: rgb(255, 255, 255);
+}
+
+.hvr-back-pulse--hover {
+    align-self: center;
+    overflow: hidden;
+    height: 60px;
+    transition-duration: 0.25s;
+    transition-delay: 0.1s;
+    transition-timing-function: linear;
+    transition-property: background-color;
+    background-color: rgb(32, 152, 209);
+    width: 20%;
+}
+
+.hvr-back-pulse--next {
+    align-self: center;
+    overflow: hidden;
+    transition-duration: 0.25s;
+    transition-delay: 0.25s;
+    transition-timing-function: linear;
+    transition-property: background-color;
+    background-color: rgba(32, 152, 209, 0.25);
+    width: 20%;
+    height: 60px;
+}
+
+.hvr-bounceout-width-flexcolumn {
+    width: 100%;
+    height: 365px;
+    flex-direction: column;
+    align-items: flex-end;
+    overflow: hidden;
+    background-color: rgb(0, 0, 0);
+}
+
+.hvr-bounceout-width-flexcolumn .hvr-child {
+    width: 0;
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+    transition-property: width, background-color;
+    transition-duration: 0.3s, 0.3s;
+    overflow: hidden;
+    transition-timing-function: ease-out-bounce;
+}
+
+.hvr-bounceout-width-flexcolumn:hover .hvr-child {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: rgb(32, 152, 209);
+    transition-property: width, background-color;
+    transition-duration: 0.3s, 0.3s;
+    transition-timing-function: ease-out-bounce;
+}
+
+.hvr-bounceout-height-flexrow {
+    width: 100%;
+    height: 365px;
+    flex-direction: row;
+    align-items: auto;
+    overflow: hidden;
+    background-color: rgb(0, 0, 0);
+}
+
+.hvr-bounceout-height-flexrow .hvr-child {
+    width: 100%;
+    height: 0;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+    transition-property: height, background-color;
+    transition-duration: 0.3s, 0.3s;
+    transition-timing-function: ease-out-bounce;
+}
+
+.hvr-bounceout-height-flexrow:hover .hvr-child {
+    width: 100%;
+    overflow: hidden;
+    height: 100%;
+    background-color: rgb(32, 152, 209);
+    transition-property: height, background-color;
+    transition-duration: 0.3s, 0.3s;
+    transition-timing-function: ease-out-bounce;
+}
+
+.hvr-bouncein-height-flexrow {
+    width: 100%;
+    height: 100px;
+    overflow: hidden;
+    background-color: rgb(32, 152, 209);
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+}
+
+.hvr-bouncein-height-flexrow:hover .hvr-child {
+    width: 100%;
+    height: 0;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+    transition-property: height, background-color;
+    transition-duration: 0.3s, 0.3s;
+    transition-timing-function: ease-out;
+}
+
+.hvr-bouncein-height-flexrow .hvr-child {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+    transition-property: height, background-color;
+    transition-duration: 0.3s, 0.3s;
+    transition-timing-function: ease-out;
+}
+
+.hvr-bouncein-width-flexrow {
+    width: 100%;
+    height: 100px;
+    overflow: hidden;
+    background-color: rgb(32, 152, 209);
+    flex-direction: row;
+    align-items: auto;
+    justify-content: center;
+}
+
+.hvr-bouncein-width-flexrow:hover .hvr-child {
+    width: 0;
+    height: 100%;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+    transition-property: width, background-color;
+    transition-duration: 0.3s, 0.3s;
+    transition-timing-function: ease-out;
+}
+
+.hvr-bouncein-width-flexrow .hvr-child {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+    transition-property: width, background-color;
+    transition-duration: 0.3s, 0.3s;
+    transition-timing-function: ease-out;
+}
+
+.hvr-bouncein-Rectangle {
+    width: 100%;
+    height: 100px;
+    overflow: hidden;
+    background-color: rgb(32, 152, 209);
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.hvr-bouncein-Rectangle:hover .hvr-child {
+    width: 0;
+    height: 0;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+    transition-property: width, height, background-color;
+    transition-duration: 0.3s, 0.3s, 0.3s;
+    transition-timing-function: ease-out, ease-out;
+}
+
+.hvr-bouncein-Rectangle .hvr-child {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+    transition-property: width, height, background-color;
+    transition-duration: 0.3s, 0.3s, 0.3s;
+    transition-timing-function: ease-out, ease-out;
+}
+
+.hvr-bounceout-Rectangle {
+    width: 100%;
+    height: 100px;
+    overflow: hidden;
+    background-color: rgb(32, 152, 209);
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.hvr-bounceout-Rectangle:hover .hvr-child {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+    transition-property: width, height, background-color;
+    transition-duration: 0.3s, 0.3s, 0.3s;
+    transition-timing-function: ease-out, ease-out;
+}
+
+.hvr-bounceout-Rectangle .hvr-child {
+    width: 0;
+    height: 0;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+    transition-property: width, height, background-color;
+    transition-duration: 0.3s, 0.3s, 0.3s;
+    transition-timing-function: ease-out, ease-out;
+}
+
+.hvr-bounceout-Radial {
+    width: 100%;
+    height: 100px;
+    overflow: hidden;
+    background-color: rgb(32, 152, 209);
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.hvr-bounceout-Radial:hover .hvr-child {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+    transition-property: width, height, background-color, border-radius;
+    transition-duration: 0.3s, 0.3s, 0.3s, 0.3s;
+    transition-timing-function: ease-out, ease-out, ease-out, ease-out-circ;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    transition-delay: 0s, 0s, 0s, 0s;
+}
+
+.hvr-bounceout-Radial .hvr-child {
+    width: 0;
+    height: 0;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+    transition-property: width, height, background-color, border-radius;
+    transition-duration: 0.3s, 0.3s, 0.3s, 0.3s;
+    transition-timing-function: ease-out, ease-out, ease-out, ease-out-circ;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    transition-delay: 0s, 0s, 0s, 0s;
+}
+
+.hvr-border-fade {
+    transition-duration: 0.3s, 0.3s;
+    transition-property: box-shadow, border-color;
+    transition-timing-function: ease-in-out, ease-in-out;
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    transition-delay: 0s, 0s;
+}
+
+.hvr-border-fade:hover {
+    border-left-color: rgb(21, 101, 229);
+    border-right-color: rgb(21, 101, 229);
+    border-top-color: rgb(21, 101, 229);
+    border-bottom-color: rgb(21, 101, 229);
+    border-left-width: 8px;
+    border-right-width: 8px;
+    border-top-width: 8px;
+    border-bottom-width: 8px;
+    transition-property: border-width, border-color;
+    transition-duration: 0.3s, 0.3s;
+    transition-timing-function: ease-in-out, ease-in-out;
+}
+
+.hvr-boarderout-down {
+    width: 20%;
+    height: 100px;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.hvr-boarderout-down:hover .hvr-child {
+    overflow: hidden;
+    flex-grow: 1;
+    border-left-color: rgb(0, 21, 255);
+    border-right-color: rgb(0, 21, 255);
+    border-top-color: rgb(0, 21, 255);
+    border-bottom-color: rgb(0, 21, 255);
+    width: 100%;
+    height: 100%;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 8px;
+    transform-origin: left bottom;
+    scale: 1 1;
+    transition-property: scale;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-out;
+}
+
+.hvr-boarderout-down .hvr-child {
+    overflow: hidden;
+    flex-grow: 1;
+    width: 100%;
+    height: 100%;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 8px;
+    border-left-color: rgb(0, 11, 255);
+    border-right-color: rgb(0, 11, 255);
+    border-top-color: rgb(0, 11, 255);
+    border-bottom-color: rgb(0, 11, 255);
+    transform-origin: left bottom;
+    scale: 0 1;
+    transition-property: scale;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-out;
+}
+
+.hvr-boarder-outlinein {
+    width: 20%;
+    height: 100px;
+    overflow: visible;
+    background-color: rgb(255, 255, 255);
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.hvr-boarder-outlinein:hover .hvr-child {
+    overflow: hidden;
+    flex-grow: 1;
+    border-left-color: rgba(0, 21, 255, 0.59);
+    border-right-color: rgba(0, 21, 255, 0.59);
+    border-top-color: rgba(0, 21, 255, 0.59);
+    border-bottom-color: rgba(0, 21, 255, 0.59);
+    width: 100%;
+    height: 100%;
+    border-left-width: 8px;
+    border-right-width: 8px;
+    border-top-width: 8px;
+    border-bottom-width: 8px;
+    transform-origin: center;
+    scale: 1 1;
+    transition-property: scale;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-out-bounce;
+}
+
+.hvr-boarder-outlinein .hvr-child {
+    overflow: hidden;
+    flex-grow: 1;
+    width: 100%;
+    height: 100%;
+    border-left-width: 4px;
+    border-right-width: 4px;
+    border-top-width: 4px;
+    border-bottom-width: 4px;
+    border-left-color: rgba(0, 11, 255, 0);
+    border-right-color: rgba(0, 11, 255, 0);
+    border-top-color: rgba(0, 11, 255, 0);
+    border-bottom-color: rgba(0, 11, 255, 0);
+    transform-origin: center;
+    scale: 1.25 1.25;
+    transition-property: scale;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-out-bounce;
+}
+
+.hvr-boarder-outlineout {
+    width: 20%;
+    height: 100px;
+    overflow: visible;
+    background-color: rgb(255, 255, 255);
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.hvr-boarder-outlineout:hover .hvr-child {
+    overflow: hidden;
+    flex-grow: 1;
+    border-left-color: rgba(0, 21, 255, 0.59);
+    border-right-color: rgba(0, 21, 255, 0.59);
+    border-top-color: rgba(0, 21, 255, 0.59);
+    border-bottom-color: rgba(0, 21, 255, 0.59);
+    width: 100%;
+    height: 100%;
+    border-left-width: 4px;
+    border-right-width: 4px;
+    border-top-width: 4px;
+    border-bottom-width: 4px;
+    transform-origin: center;
+    scale: 1.25 1.25;
+    transition-property: scale;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-out-bounce;
+}
+
+.hvr-boarder-outlineout .hvr-child {
+    overflow: hidden;
+    flex-grow: 1;
+    width: 100%;
+    height: 100%;
+    border-left-width: 4px;
+    border-right-width: 4px;
+    border-top-width: 4px;
+    border-bottom-width: 4px;
+    border-left-color: rgba(0, 11, 255, 0);
+    border-right-color: rgba(0, 11, 255, 0);
+    border-top-color: rgba(0, 11, 255, 0);
+    border-bottom-color: rgba(0, 11, 255, 0);
+    transform-origin: center;
+    scale: 1 1;
+    transition-property: scale;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-out-bounce;
+}
+
+.hvr-iconspin {
+    width: 20%;
+    height: 100px;
+    overflow: visible;
+    background-color: rgb(255, 255, 255);
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.hvr-iconspin:hover .hvr-child {
+    overflow: hidden;
+    transition-property: rotate;
+    transition-duration: 1s;
+    transition-timing-function: ease-out;
+    rotate: 360deg;
+}
+
+.hvr-iconspin .hvr-child {
+    overflow: hidden;
+    flex-grow: 0;
+    transition-property: rotate;
+    transition-duration: 1s;
+    transition-timing-function: ease-out;
+    transform-origin: center;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: url('project://database/Assets/UIArts/GUI%20Kit%20-%20Neon/ResourceData/Sprite/Component/Button_ButtonIcon/Line_Green/btn_line_green_Refresh.png?fileID=2800000&guid=2e084a5dc55044725aa42eb5df5b4938&type=3#btn_line_green_Refresh');
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    width: 30px;
+    height: 30px;
+}
+
+.test {
+}

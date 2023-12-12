@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 00ed26575b2c333489d94ecb198e252b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Detail
+    100002: //RootNode
+    100004: Screen_01.010
+    100006: Screen_02.010
+    100008: Screen_03.010
+    400000: Detail
+    400002: //RootNode
+    400004: Screen_01.010
+    400006: Screen_02.010
+    400008: Screen_03.010
+    2100000: MainColor_01
+    2100002: MainColor_03
+    2100004: MainColor_02
+    2100006: Labels
+    2100008: ScreenUI
+    2100010: Decals_2
+    2300000: Detail
+    2300002: //RootNode
+    2300004: Screen_01.010
+    2300006: Screen_02.010
+    2300008: Screen_03.010
+    3300000: Detail
+    3300002: //RootNode
+    3300004: Screen_01.010
+    3300006: Screen_02.010
+    3300008: Screen_03.010
+    4300000: Prop_08
+    4300002: Screen_01.010
+    4300004: Screen_02.010
+    4300006: Screen_03.010
+    4300008: Detail
+    7400000: Screen_01.010|bolt_01 v2Action
+    7400002: Screen_01.010|bolt_2 v1Action
+    7400004: Screen_01.010|socket_01 v1.001Action
+    7400006: Screen_01.010|socket_01 v1.001Action.001
+    7400008: Screen_01.010|socket_01 v1.001Action.002
+    7400010: Screen_01.010|socket_01 v1.001Action.003
+    7400012: Screen_02.010|bolt_01 v2Action
+    7400014: Screen_02.010|bolt_2 v1Action
+    7400016: Screen_02.010|socket_01 v1.001Action
+    7400018: Screen_02.010|socket_01 v1.001Action.001
+    7400020: Screen_02.010|socket_01 v1.001Action.002
+    7400022: Screen_02.010|socket_01 v1.001Action.003
+    7400024: Screen_03.010|bolt_01 v2Action
+    7400026: Screen_03.010|bolt_2 v1Action
+    7400028: Screen_03.010|socket_01 v1.001Action
+    7400030: Screen_03.010|socket_01 v1.001Action.001
+    7400032: Screen_03.010|socket_01 v1.001Action.002
+    7400034: Screen_03.010|socket_01 v1.001Action.003
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

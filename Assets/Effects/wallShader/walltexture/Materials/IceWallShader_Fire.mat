@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-4812003633131679743
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 639247ca83abc874e893eb93af2b5e44, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 0
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: IceWallShader_Fire
+  m_Shader: {fileID: -6465566751694194690, guid: d24e2c56f4ebc234b86e3a7833a7baf6, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _CracksTexture:
+        m_Texture: {fileID: 2800000, guid: f0e28ba262000ba4395b3b22d505b8a5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GlossinessTexture:
+        m_Texture: {fileID: 2800000, guid: 0bfcfcd9a488017439a6b27ae33f208c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GlowTexture:
+        m_Texture: {fileID: 2800000, guid: 5de532fc8d1d1814ca48ac9c3e17aae0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 75e4d96ed4c07ca42ad5ec91a053a14b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MettalicTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TrailTexture:
+        m_Texture: {fileID: 2800000, guid: b5cf3e85efe315f4b99f79eb2f5612ef, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BUILTIN_QueueControl: 0
+    - _BUILTIN_QueueOffset: 0
+    - _CracksAmount: 0
+    - _FresnelPowerInside: 7.65
+    - _FresnelStrengthInside: 2.04
+    - _Glossiness: 2.44
+    - _Metallic: 0.05
+    - _NormalStrength: 1.48
+    - _RiseWall: 1
+    - _TrailDistortionAmount: 0.1
+    m_Colors:
+    - _Color: {r: 1.2156863, g: 0.19731036, b: 0.025459401, a: 1}
+    - _CracksColor: {r: 7.4642644, g: 6.117081, b: 2.711077, a: 1}
+    - _FresnelColorInside: {r: 0.40784314, g: 0.2784314, b: 0.08235294, a: 1}
+    - _GlossColor: {r: 0.7137255, g: 0.84705883, b: 1, a: 1}
+    - _GlowsColor: {r: 31.626795, g: 8.741198, b: 1.1590976, a: 1}
+    - _TrailColor: {r: 1.319508, g: 0.5667139, b: 0, a: 1}
+    - _TrailSpeed: {r: 0, g: 0, b: 0, a: 0}
+    - _TrailSpeed_1: {r: -0.2, g: 0, b: 0, a: 0}
+    - _TrailTiling: {r: 2.67, g: 1.2, b: 0, a: 0}
+  m_BuildTextureStacks: []

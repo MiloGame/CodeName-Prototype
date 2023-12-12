@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/Resources/CustomUIToolket/Uss/CustomTab.uss?fileID=7433441132597879392&amp;guid=a502500aa5ca21344813f489f93bfe4c&amp;type=3#CustomTab" />
+    <ui:VisualElement name="Fill" class="fill-normal" />
+    <ui:VisualElement name="Icon" class="icon-normal" />
+    <ui:Label tabindex="-1" text="Label" display-tooltip-when-elided="true" name="Label" class="label-normal" />
+</ui:UXML>

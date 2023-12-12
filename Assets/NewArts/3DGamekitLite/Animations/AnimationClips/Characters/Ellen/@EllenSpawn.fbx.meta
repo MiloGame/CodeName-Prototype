@@ -1,0 +1,1812 @@
+fileFormatVersion: 2
+guid: 118c1440644eccb46ba5d8a2657a9556
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Ellen_Body
+  - first:
+      1: 100004
+    second: Ellen_Chest
+  - first:
+      1: 100006
+    second: Ellen_Hair_FrontalBase
+  - first:
+      1: 100008
+    second: Ellen_Hair_FrontalLeft
+  - first:
+      1: 100010
+    second: Ellen_Hair_FrontalLeftEnd
+  - first:
+      1: 100012
+    second: Ellen_Hair_SideDistal
+  - first:
+      1: 100014
+    second: Ellen_Hair_SideEnd
+  - first:
+      1: 100016
+    second: Ellen_Hair_SideIntermediate
+  - first:
+      1: 100018
+    second: Ellen_Hair_SideProximal
+  - first:
+      1: 100020
+    second: Ellen_HairFrontalRight
+  - first:
+      1: 100022
+    second: Ellen_HairFrontalRightEnd
+  - first:
+      1: 100024
+    second: Ellen_Head
+  - first:
+      1: 100026
+    second: Ellen_HeadEnd
+  - first:
+      1: 100028
+    second: Ellen_Hips
+  - first:
+      1: 100030
+    second: Ellen_Jaw
+  - first:
+      1: 100032
+    second: Ellen_JawEnd
+  - first:
+      1: 100034
+    second: Ellen_Left_Arm
+  - first:
+      1: 100036
+    second: Ellen_Left_Cheek
+  - first:
+      1: 100038
+    second: Ellen_Left_Eye
+  - first:
+      1: 100040
+    second: Ellen_Left_EyebrowDistal
+  - first:
+      1: 100042
+    second: Ellen_Left_EyebrowIntermediate
+  - first:
+      1: 100044
+    second: Ellen_Left_EyebrowProximal
+  - first:
+      1: 100046
+    second: Ellen_Left_Foot
+  - first:
+      1: 100048
+    second: Ellen_Left_Hand
+  - first:
+      1: 100050
+    second: Ellen_Left_Hand_Attach
+  - first:
+      1: 100052
+    second: Ellen_Left_IndexDistal
+  - first:
+      1: 100054
+    second: Ellen_Left_IndexEnd
+  - first:
+      1: 100056
+    second: Ellen_Left_IndexIntermediate
+  - first:
+      1: 100058
+    second: Ellen_Left_IndexProximal
+  - first:
+      1: 100060
+    second: Ellen_Left_LowerEyelid
+  - first:
+      1: 100062
+    second: Ellen_Left_LowerLeg
+  - first:
+      1: 100064
+    second: Ellen_Left_LowerMouth
+  - first:
+      1: 100066
+    second: Ellen_Left_MiddleDistal
+  - first:
+      1: 100068
+    second: Ellen_Left_MiddleEnd
+  - first:
+      1: 100070
+    second: Ellen_Left_MiddleIntermediate
+  - first:
+      1: 100072
+    second: Ellen_Left_MiddleProximal
+  - first:
+      1: 100074
+    second: Ellen_Left_Mouth
+  - first:
+      1: 100076
+    second: Ellen_Left_Nostril
+  - first:
+      1: 100078
+    second: Ellen_Left_PinkyDistal
+  - first:
+      1: 100080
+    second: Ellen_Left_PinkyEnd
+  - first:
+      1: 100082
+    second: Ellen_Left_PinkyIntermediate
+  - first:
+      1: 100084
+    second: Ellen_Left_PinkyProximal
+  - first:
+      1: 100086
+    second: Ellen_Left_RingDistal
+  - first:
+      1: 100088
+    second: Ellen_Left_RingEnd
+  - first:
+      1: 100090
+    second: Ellen_Left_RingIntermediate
+  - first:
+      1: 100092
+    second: Ellen_Left_RingProximal
+  - first:
+      1: 100094
+    second: Ellen_Left_Shoulder
+  - first:
+      1: 100096
+    second: Ellen_Left_ThumbDistal
+  - first:
+      1: 100098
+    second: Ellen_Left_ThumbEnd
+  - first:
+      1: 100100
+    second: Ellen_Left_ThumbIntermediate
+  - first:
+      1: 100102
+    second: Ellen_Left_ThumbProximal
+  - first:
+      1: 100104
+    second: Ellen_Left_ToeEnd
+  - first:
+      1: 100106
+    second: Ellen_Left_Toes
+  - first:
+      1: 100108
+    second: Ellen_Left_UpperArm
+  - first:
+      1: 100110
+    second: Ellen_Left_UpperEyelid
+  - first:
+      1: 100112
+    second: Ellen_Left_UpperLeg
+  - first:
+      1: 100114
+    second: Ellen_Left_UpperMouth
+  - first:
+      1: 100116
+    second: Ellen_LowerMouth
+  - first:
+      1: 100118
+    second: Ellen_Neck
+  - first:
+      1: 100120
+    second: Ellen_Right_Arm
+  - first:
+      1: 100122
+    second: Ellen_Right_Cheek
+  - first:
+      1: 100124
+    second: Ellen_Right_Eye
+  - first:
+      1: 100126
+    second: Ellen_Right_EyebrowDistal
+  - first:
+      1: 100128
+    second: Ellen_Right_EyebrowIntermediate
+  - first:
+      1: 100130
+    second: Ellen_Right_EyebrowProximal
+  - first:
+      1: 100132
+    second: Ellen_Right_Foot
+  - first:
+      1: 100134
+    second: Ellen_Right_Hand
+  - first:
+      1: 100136
+    second: Ellen_Right_Hand_Attach
+  - first:
+      1: 100138
+    second: Ellen_Right_IndexDistal
+  - first:
+      1: 100140
+    second: Ellen_Right_IndexEnd
+  - first:
+      1: 100142
+    second: Ellen_Right_IndexIntermediate
+  - first:
+      1: 100144
+    second: Ellen_Right_IndexProximal
+  - first:
+      1: 100146
+    second: Ellen_Right_LowerEyelid
+  - first:
+      1: 100148
+    second: Ellen_Right_LowerLeg
+  - first:
+      1: 100150
+    second: Ellen_Right_LowerMouth
+  - first:
+      1: 100152
+    second: Ellen_Right_MiddleDistal
+  - first:
+      1: 100154
+    second: Ellen_Right_MiddleEnd
+  - first:
+      1: 100156
+    second: Ellen_Right_MiddleIntermediate
+  - first:
+      1: 100158
+    second: Ellen_Right_MiddleProximal
+  - first:
+      1: 100160
+    second: Ellen_Right_Mouth
+  - first:
+      1: 100162
+    second: Ellen_Right_Nostril
+  - first:
+      1: 100164
+    second: Ellen_Right_PinkyDistal
+  - first:
+      1: 100166
+    second: Ellen_Right_PinkyEnd
+  - first:
+      1: 100168
+    second: Ellen_Right_PinkyIntermediate
+  - first:
+      1: 100170
+    second: Ellen_Right_PinkyProximal
+  - first:
+      1: 100172
+    second: Ellen_Right_RingDistal
+  - first:
+      1: 100174
+    second: Ellen_Right_RingEnd
+  - first:
+      1: 100176
+    second: Ellen_Right_RingIntermediate
+  - first:
+      1: 100178
+    second: Ellen_Right_RingProximal
+  - first:
+      1: 100180
+    second: Ellen_Right_Shoulder
+  - first:
+      1: 100182
+    second: Ellen_Right_ThumbDistal
+  - first:
+      1: 100184
+    second: Ellen_Right_ThumbEnd
+  - first:
+      1: 100186
+    second: Ellen_Right_ThumbIntermediate
+  - first:
+      1: 100188
+    second: Ellen_Right_ThumbProximal
+  - first:
+      1: 100190
+    second: Ellen_Right_ToeEnd
+  - first:
+      1: 100192
+    second: Ellen_Right_Toes
+  - first:
+      1: 100194
+    second: Ellen_Right_UpperArm
+  - first:
+      1: 100196
+    second: Ellen_Right_UpperEyelid
+  - first:
+      1: 100198
+    second: Ellen_Right_UpperLeg
+  - first:
+      1: 100200
+    second: Ellen_Right_UpperMouth
+  - first:
+      1: 100202
+    second: Ellen_Root
+  - first:
+      1: 100204
+    second: Ellen_Skeleton
+  - first:
+      1: 100206
+    second: Ellen_Spine
+  - first:
+      1: 100208
+    second: Ellen_TongueDistal
+  - first:
+      1: 100210
+    second: Ellen_TongueEnd
+  - first:
+      1: 100212
+    second: Ellen_TongueProximal
+  - first:
+      1: 100214
+    second: Ellen_UpperChest
+  - first:
+      1: 100216
+    second: Ellen_UpperMouth
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Ellen_Body
+  - first:
+      4: 400004
+    second: Ellen_Chest
+  - first:
+      4: 400006
+    second: Ellen_Hair_FrontalBase
+  - first:
+      4: 400008
+    second: Ellen_Hair_FrontalLeft
+  - first:
+      4: 400010
+    second: Ellen_Hair_FrontalLeftEnd
+  - first:
+      4: 400012
+    second: Ellen_Hair_SideDistal
+  - first:
+      4: 400014
+    second: Ellen_Hair_SideEnd
+  - first:
+      4: 400016
+    second: Ellen_Hair_SideIntermediate
+  - first:
+      4: 400018
+    second: Ellen_Hair_SideProximal
+  - first:
+      4: 400020
+    second: Ellen_HairFrontalRight
+  - first:
+      4: 400022
+    second: Ellen_HairFrontalRightEnd
+  - first:
+      4: 400024
+    second: Ellen_Head
+  - first:
+      4: 400026
+    second: Ellen_HeadEnd
+  - first:
+      4: 400028
+    second: Ellen_Hips
+  - first:
+      4: 400030
+    second: Ellen_Jaw
+  - first:
+      4: 400032
+    second: Ellen_JawEnd
+  - first:
+      4: 400034
+    second: Ellen_Left_Arm
+  - first:
+      4: 400036
+    second: Ellen_Left_Cheek
+  - first:
+      4: 400038
+    second: Ellen_Left_Eye
+  - first:
+      4: 400040
+    second: Ellen_Left_EyebrowDistal
+  - first:
+      4: 400042
+    second: Ellen_Left_EyebrowIntermediate
+  - first:
+      4: 400044
+    second: Ellen_Left_EyebrowProximal
+  - first:
+      4: 400046
+    second: Ellen_Left_Foot
+  - first:
+      4: 400048
+    second: Ellen_Left_Hand
+  - first:
+      4: 400050
+    second: Ellen_Left_Hand_Attach
+  - first:
+      4: 400052
+    second: Ellen_Left_IndexDistal
+  - first:
+      4: 400054
+    second: Ellen_Left_IndexEnd
+  - first:
+      4: 400056
+    second: Ellen_Left_IndexIntermediate
+  - first:
+      4: 400058
+    second: Ellen_Left_IndexProximal
+  - first:
+      4: 400060
+    second: Ellen_Left_LowerEyelid
+  - first:
+      4: 400062
+    second: Ellen_Left_LowerLeg
+  - first:
+      4: 400064
+    second: Ellen_Left_LowerMouth
+  - first:
+      4: 400066
+    second: Ellen_Left_MiddleDistal
+  - first:
+      4: 400068
+    second: Ellen_Left_MiddleEnd
+  - first:
+      4: 400070
+    second: Ellen_Left_MiddleIntermediate
+  - first:
+      4: 400072
+    second: Ellen_Left_MiddleProximal
+  - first:
+      4: 400074
+    second: Ellen_Left_Mouth
+  - first:
+      4: 400076
+    second: Ellen_Left_Nostril
+  - first:
+      4: 400078
+    second: Ellen_Left_PinkyDistal
+  - first:
+      4: 400080
+    second: Ellen_Left_PinkyEnd
+  - first:
+      4: 400082
+    second: Ellen_Left_PinkyIntermediate
+  - first:
+      4: 400084
+    second: Ellen_Left_PinkyProximal
+  - first:
+      4: 400086
+    second: Ellen_Left_RingDistal
+  - first:
+      4: 400088
+    second: Ellen_Left_RingEnd
+  - first:
+      4: 400090
+    second: Ellen_Left_RingIntermediate
+  - first:
+      4: 400092
+    second: Ellen_Left_RingProximal
+  - first:
+      4: 400094
+    second: Ellen_Left_Shoulder
+  - first:
+      4: 400096
+    second: Ellen_Left_ThumbDistal
+  - first:
+      4: 400098
+    second: Ellen_Left_ThumbEnd
+  - first:
+      4: 400100
+    second: Ellen_Left_ThumbIntermediate
+  - first:
+      4: 400102
+    second: Ellen_Left_ThumbProximal
+  - first:
+      4: 400104
+    second: Ellen_Left_ToeEnd
+  - first:
+      4: 400106
+    second: Ellen_Left_Toes
+  - first:
+      4: 400108
+    second: Ellen_Left_UpperArm
+  - first:
+      4: 400110
+    second: Ellen_Left_UpperEyelid
+  - first:
+      4: 400112
+    second: Ellen_Left_UpperLeg
+  - first:
+      4: 400114
+    second: Ellen_Left_UpperMouth
+  - first:
+      4: 400116
+    second: Ellen_LowerMouth
+  - first:
+      4: 400118
+    second: Ellen_Neck
+  - first:
+      4: 400120
+    second: Ellen_Right_Arm
+  - first:
+      4: 400122
+    second: Ellen_Right_Cheek
+  - first:
+      4: 400124
+    second: Ellen_Right_Eye
+  - first:
+      4: 400126
+    second: Ellen_Right_EyebrowDistal
+  - first:
+      4: 400128
+    second: Ellen_Right_EyebrowIntermediate
+  - first:
+      4: 400130
+    second: Ellen_Right_EyebrowProximal
+  - first:
+      4: 400132
+    second: Ellen_Right_Foot
+  - first:
+      4: 400134
+    second: Ellen_Right_Hand
+  - first:
+      4: 400136
+    second: Ellen_Right_Hand_Attach
+  - first:
+      4: 400138
+    second: Ellen_Right_IndexDistal
+  - first:
+      4: 400140
+    second: Ellen_Right_IndexEnd
+  - first:
+      4: 400142
+    second: Ellen_Right_IndexIntermediate
+  - first:
+      4: 400144
+    second: Ellen_Right_IndexProximal
+  - first:
+      4: 400146
+    second: Ellen_Right_LowerEyelid
+  - first:
+      4: 400148
+    second: Ellen_Right_LowerLeg
+  - first:
+      4: 400150
+    second: Ellen_Right_LowerMouth
+  - first:
+      4: 400152
+    second: Ellen_Right_MiddleDistal
+  - first:
+      4: 400154
+    second: Ellen_Right_MiddleEnd
+  - first:
+      4: 400156
+    second: Ellen_Right_MiddleIntermediate
+  - first:
+      4: 400158
+    second: Ellen_Right_MiddleProximal
+  - first:
+      4: 400160
+    second: Ellen_Right_Mouth
+  - first:
+      4: 400162
+    second: Ellen_Right_Nostril
+  - first:
+      4: 400164
+    second: Ellen_Right_PinkyDistal
+  - first:
+      4: 400166
+    second: Ellen_Right_PinkyEnd
+  - first:
+      4: 400168
+    second: Ellen_Right_PinkyIntermediate
+  - first:
+      4: 400170
+    second: Ellen_Right_PinkyProximal
+  - first:
+      4: 400172
+    second: Ellen_Right_RingDistal
+  - first:
+      4: 400174
+    second: Ellen_Right_RingEnd
+  - first:
+      4: 400176
+    second: Ellen_Right_RingIntermediate
+  - first:
+      4: 400178
+    second: Ellen_Right_RingProximal
+  - first:
+      4: 400180
+    second: Ellen_Right_Shoulder
+  - first:
+      4: 400182
+    second: Ellen_Right_ThumbDistal
+  - first:
+      4: 400184
+    second: Ellen_Right_ThumbEnd
+  - first:
+      4: 400186
+    second: Ellen_Right_ThumbIntermediate
+  - first:
+      4: 400188
+    second: Ellen_Right_ThumbProximal
+  - first:
+      4: 400190
+    second: Ellen_Right_ToeEnd
+  - first:
+      4: 400192
+    second: Ellen_Right_Toes
+  - first:
+      4: 400194
+    second: Ellen_Right_UpperArm
+  - first:
+      4: 400196
+    second: Ellen_Right_UpperEyelid
+  - first:
+      4: 400198
+    second: Ellen_Right_UpperLeg
+  - first:
+      4: 400200
+    second: Ellen_Right_UpperMouth
+  - first:
+      4: 400202
+    second: Ellen_Root
+  - first:
+      4: 400204
+    second: Ellen_Skeleton
+  - first:
+      4: 400206
+    second: Ellen_Spine
+  - first:
+      4: 400208
+    second: Ellen_TongueDistal
+  - first:
+      4: 400210
+    second: Ellen_TongueEnd
+  - first:
+      4: 400212
+    second: Ellen_TongueProximal
+  - first:
+      4: 400214
+    second: Ellen_UpperChest
+  - first:
+      4: 400216
+    second: Ellen_UpperMouth
+  - first:
+      21: 2100000
+    second: Ellen_Hair_Mat
+  - first:
+      21: 2100002
+    second: Ellen_Body_Mat
+  - first:
+      21: 2100004
+    second: Ellen_Head_Mat
+  - first:
+      21: 2100006
+    second: Ellen_Eyes_Mat
+  - first:
+      21: 2100008
+    second: Ellen_Tear_Mat
+  - first:
+      21: 2100010
+    second: Default_Material
+  - first:
+      43: 4300000
+    second: Ellen_Body
+  - first:
+      74: 7400000
+    second: EllenSpawn
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Ellen_Body
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'Ellen_Spine' has translation animation
+      that will be discarded.\n\t'Ellen_Right_UpperLeg' has scale animation that
+      will be discarded.\n\t'Ellen_Right_LowerLeg' has scale animation that will
+      be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: EllenSpawn
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 107
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Ellen_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Left_UpperLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Right_UpperLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Left_LowerLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Right_LowerLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Left_Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Right_Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Chest
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Left_Shoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Right_Shoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Left_UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Right_UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Left_Arm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Right_Arm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Left_Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Right_Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Left_Toes
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Right_Toes
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Left_Eye
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Right_Eye
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Jaw
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Left_ThumbProximal
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Left_ThumbIntermediate
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Left_ThumbDistal
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Left_IndexProximal
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Left_IndexIntermediate
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Left_IndexDistal
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Left_MiddleProximal
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Left_MiddleIntermediate
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Left_MiddleDistal
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Left_RingProximal
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Left_RingIntermediate
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Left_RingDistal
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Left_PinkyProximal
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Left_PinkyIntermediate
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Left_PinkyDistal
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Right_ThumbProximal
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Right_ThumbIntermediate
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Right_ThumbDistal
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Right_IndexProximal
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Right_IndexIntermediate
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Right_IndexDistal
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Right_MiddleProximal
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Right_MiddleIntermediate
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Right_MiddleDistal
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Right_RingProximal
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Right_RingIntermediate
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Right_RingDistal
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Right_PinkyProximal
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Right_PinkyIntermediate
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_Right_PinkyDistal
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ellen_UpperChest
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: '@EllenSpawn(Clone)'
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ellen_Body
+      parentName: '@EllenSpawn(Clone)'
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ellen_Skeleton
+      parentName: '@EllenSpawn(Clone)'
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ellen_Root
+      parentName: Ellen_Skeleton
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ellen_Hips
+      parentName: Ellen_Root
+      position: {x: -0.0000000015817194, y: 0.8535154, z: -0.1086244}
+      rotation: {x: 0.043167803, y: 0.04316781, z: -0.70578796, w: 0.70578784}
+      scale: {x: 1.0000001, y: 1.0000212, z: 1.0000211}
+    - name: Ellen_Spine
+      parentName: Ellen_Hips
+      position: {x: -0.09191215, y: -0.011586822, z: 0.0017478208}
+      rotation: {x: 0.00000001117587, y: -0.0905259, z: 0.00000006722984, w: 0.9958941}
+      scale: {x: 1.0000001, y: 1.0000205, z: 1.0000209}
+    - name: Ellen_Chest
+      parentName: Ellen_Spine
+      position: {x: -0.0990385, y: 0.00000029284902, z: 0.009736156}
+      rotation: {x: 0.0000000024764493, y: -0.0000018700957, z: 0.000000027245305, w: 1}
+      scale: {x: 1.000007, y: 0.99999946, z: 0.99999386}
+    - name: Ellen_UpperChest
+      parentName: Ellen_Chest
+      position: {x: -0.11921042, y: -0.000000023273433, z: 0.00000012881308}
+      rotation: {x: -9.1087626e-10, y: -0.07845851, z: -0.000000010725733, w: 0.9969174}
+      scale: {x: 1.0000083, y: 0.9999973, z: 0.9999915}
+    - name: Ellen_Neck
+      parentName: Ellen_UpperChest
+      position: {x: -0.19708396, y: -6.840626e-17, z: -7.3872404e-17}
+      rotation: {x: -0.000000011122952, y: 0.13697009, z: -0.00000007808115, w: 0.9905752}
+      scale: {x: 1.0000081, y: 1.0000002, z: 0.99999267}
+    - name: Ellen_Head
+      parentName: Ellen_Neck
+      position: {x: -0.07600874, y: -6.1187675e-18, z: 0}
+      rotation: {x: -0.000000012389944, y: -0.029293224, z: 0.00000008423076, w: 0.9995709}
+      scale: {x: 0.99999946, y: 0.99999946, z: 1.000002}
+    - name: Ellen_HeadEnd
+      parentName: Ellen_Head
+      position: {x: -0.25294384, y: 2.82228e-16, z: -5.479516e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ellen_Jaw
+      parentName: Ellen_Head
+      position: {x: -0.009947284, y: 0.0000000045199307, z: 0.031856142}
+      rotation: {x: -0.35449922, y: 0.6118254, z: 0.6118254, w: 0.35449922}
+      scale: {x: 0.999996, y: 1.000004, z: 1}
+    - name: Ellen_JawEnd
+      parentName: Ellen_Jaw
+      position: {x: -0.07773014, y: -3.8857806e-18, z: 1.7259559e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ellen_Left_LowerMouth
+      parentName: Ellen_Jaw
+      position: {x: -0.0610933, y: 0.037921052, z: -0.01723406}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999998, y: 0.99999994, z: 1.0000001}
+    - name: Ellen_LowerMouth
+      parentName: Ellen_Jaw
+      position: {x: -0.06750061, y: 0.037719805, z: -4.9960035e-17}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999998, y: 0.99999994, z: 1.0000001}
+    - name: Ellen_Right_LowerMouth
+      parentName: Ellen_Jaw
+      position: {x: -0.061647043, y: 0.03789338, z: 0.0169392}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999998, y: 0.99999994, z: 1.0000001}
+    - name: Ellen_Left_UpperMouth
+      parentName: Ellen_Head
+      position: {x: -0.018859705, y: -0.016939173, z: 0.105329365}
+      rotation: {x: -0, y: -0, z: -3.2751575e-15, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: Ellen_UpperMouth
+      parentName: Ellen_Head
+      position: {x: -0.014370726, y: 0.0000000045199307, z: 0.11099901}
+      rotation: {x: -0, y: -0, z: -3.2751575e-15, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: Ellen_Left_Mouth
+      parentName: Ellen_Head
+      position: {x: -0.015725713, y: -0.029708719, z: 0.09369477}
+      rotation: {x: 0.00000001117672, y: -0, z: -3.2757766e-10, w: 1}
+      scale: {x: 1.0000004, y: 1, z: 1.0000004}
+    - name: Ellen_Left_Nostril
+      parentName: Ellen_Head
+      position: {x: -0.04101171, y: -0.016409975, z: 0.10998011}
+      rotation: {x: -0, y: -0, z: -3.2751575e-15, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: Ellen_Left_EyebrowIntermediate
+      parentName: Ellen_Head
+      position: {x: -0.09772366, y: -0.04301562, z: 0.11057044}
+      rotation: {x: -0, y: -0, z: -3.2751575e-15, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: Ellen_Left_EyebrowProximal
+      parentName: Ellen_Head
+      position: {x: -0.086453624, y: -0.007459317, z: 0.11508908}
+      rotation: {x: -0, y: -0, z: -3.2751575e-15, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: Ellen_Left_EyebrowDistal
+      parentName: Ellen_Head
+      position: {x: -0.093687505, y: -0.067081295, z: 0.095386066}
+      rotation: {x: -0, y: -0, z: -3.2751575e-15, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: Ellen_Left_Eye
+      parentName: Ellen_Head
+      position: {x: -0.09196023, y: -0.04, z: 0.075729996}
+      rotation: {x: 0.000000011174389, y: -0, z: -3.6567693e-10, w: 1}
+      scale: {x: 1.0000142, y: 0.99998564, z: 1.0000008}
+    - name: Ellen_Left_LowerEyelid
+      parentName: Ellen_Head
+      position: {x: -0.08852141, y: -0.04006019, z: 0.097471744}
+      rotation: {x: -0, y: -0, z: -3.2751575e-15, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: Ellen_Left_Cheek
+      parentName: Ellen_Head
+      position: {x: -0.061627075, y: -0.041679136, z: 0.10033992}
+      rotation: {x: -0, y: -0, z: -3.2751575e-15, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: Ellen_Left_UpperEyelid
+      parentName: Ellen_Head
+      position: {x: -0.09013739, y: -0.039937366, z: 0.10055187}
+      rotation: {x: 0.000000020531553, y: -0.00000002235174, z: 6.816591e-11, w: 1}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1.0000002}
+    - name: Ellen_Hair_SideProximal
+      parentName: Ellen_Head
+      position: {x: -0.22379531, y: -0.04975701, z: -0.000044778677}
+      rotation: {x: -0.074383326, y: 0.22970386, z: 0.92321575, w: 0.29895833}
+      scale: {x: 0.9999986, y: 1.0000011, z: 1.0000007}
+    - name: Ellen_Hair_SideIntermediate
+      parentName: Ellen_Hair_SideProximal
+      position: {x: -0.09988152, y: -4.0509046e-17, z: 1.4571677e-17}
+      rotation: {x: -0.000000012165399, y: 0.000000016763805, z: 0.31908515, w: 0.94772613}
+      scale: {x: 1.0000056, y: 0.99999446, z: 1.0000004}
+    - name: Ellen_Hair_SideDistal
+      parentName: Ellen_Hair_SideIntermediate
+      position: {x: -0.09096314, y: 1.7293457e-16, z: 4.6250682e-17}
+      rotation: {x: 0.1294095, y: 0.22414377, z: -0.48296297, w: 0.8365163}
+      scale: {x: 1.0000026, y: 1.0000007, z: 0.99999696}
+    - name: Ellen_Hair_SideEnd
+      parentName: Ellen_Hair_SideDistal
+      position: {x: -0.049033895, y: -7.494005e-18, z: 7.843419e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ellen_Hair_FrontalBase
+      parentName: Ellen_Head
+      position: {x: -0.22313794, y: -0.012683479, z: 0.09037614}
+      rotation: {x: -0.018152101, y: 0.040053647, z: 0.9099482, w: 0.41238388}
+      scale: {x: 1.0000005, y: 0.9999998, z: 1.0000002}
+    - name: Ellen_Hair_FrontalLeft
+      parentName: Ellen_Hair_FrontalBase
+      position: {x: -0.09316513, y: 5.0490837e-17, z: 1.3322676e-17}
+      rotation: {x: -0.078740865, y: 0.13517259, z: 0.49715024, w: 0.8534459}
+      scale: {x: 0.9999997, y: 0.99999315, z: 1.0000077}
+    - name: Ellen_Hair_FrontalLeftEnd
+      parentName: Ellen_Hair_FrontalLeft
+      position: {x: -0.070578255, y: -5.3871835e-17, z: 2.733924e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ellen_HairFrontalRight
+      parentName: Ellen_Hair_FrontalBase
+      position: {x: 0.020156497, y: -0.07086173, z: 0.020871341}
+      rotation: {x: 0.016982453, y: 0.08418328, z: -0.19701824, w: 0.9766312}
+      scale: {x: 0.9999934, y: 1.0000033, z: 1.0000033}
+    - name: Ellen_HairFrontalRightEnd
+      parentName: Ellen_HairFrontalRight
+      position: {x: -0.08461037, y: -4.67077e-17, z: -1.5543122e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ellen_Right_Mouth
+      parentName: Ellen_Head
+      position: {x: -0.012781578, y: 0.032709196, z: 0.09369473}
+      rotation: {x: 0.00000002981927, y: -0.000000014901159, z: -6.334025e-10, w: 1}
+      scale: {x: 1.0000006, y: 0.9999996, z: 1.0000004}
+    - name: Ellen_Right_UpperMouth
+      parentName: Ellen_Head
+      position: {x: -0.018580908, y: 0.016939204, z: 0.10592263}
+      rotation: {x: -0, y: -0, z: -3.2751575e-15, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: Ellen_Right_Nostril
+      parentName: Ellen_Head
+      position: {x: -0.03742839, y: 0.016410004, z: 0.109980226}
+      rotation: {x: -0, y: -0, z: -3.2751575e-15, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: Ellen_Right_Cheek
+      parentName: Ellen_Head
+      position: {x: -0.05581839, y: 0.041679107, z: 0.10033993}
+      rotation: {x: -0, y: -0, z: -3.2751575e-15, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: Ellen_Right_Eye
+      parentName: Ellen_Head
+      position: {x: -0.09195839, y: 0.04, z: 0.075730026}
+      rotation: {x: 0.000000011172897, y: -0, z: -3.9009118e-10, w: 1}
+      scale: {x: 1.0000149, y: 0.99998456, z: 1.0000008}
+    - name: Ellen_Right_LowerEyelid
+      parentName: Ellen_Head
+      position: {x: -0.08287665, y: 0.040060204, z: 0.0954827}
+      rotation: {x: -0, y: -0, z: -3.2751575e-15, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: Ellen_Right_UpperEyelid
+      parentName: Ellen_Head
+      position: {x: -0.09122771, y: 0.040183008, z: 0.10055183}
+      rotation: {x: 0.000000018620861, y: -0, z: -6.6050954e-10, w: 1}
+      scale: {x: 1.0000006, y: 0.9999998, z: 1.0000004}
+    - name: Ellen_Right_EyebrowProximal
+      parentName: Ellen_Head
+      position: {x: -0.08996175, y: 0.009687066, z: 0.11508887}
+      rotation: {x: -0, y: -0, z: -3.2751575e-15, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: Ellen_Right_EyebrowIntermediate
+      parentName: Ellen_Head
+      position: {x: -0.10751699, y: 0.043015603, z: 0.11057023}
+      rotation: {x: -0, y: -0, z: -3.2751575e-15, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: Ellen_Right_EyebrowDistal
+      parentName: Ellen_Head
+      position: {x: -0.10259698, y: 0.0670813, z: 0.09538603}
+      rotation: {x: -0, y: -0, z: -3.2751575e-15, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: Ellen_TongueProximal
+      parentName: Ellen_Head
+      position: {x: 0.006377836, y: -4.4622366e-18, z: 0.058495402}
+      rotation: {x: 0.000000017195545, y: 0.50323665, z: -0.0000000137979566, w: 0.8641486}
+      scale: {x: 1.000004, y: 0.99999994, z: 0.999996}
+    - name: Ellen_TongueDistal
+      parentName: Ellen_TongueProximal
+      position: {x: -0.025052534, y: 1.7989082e-17, z: 8.336938e-18}
+      rotation: {x: 0.00000004524706, y: 0.25881907, z: 0.000000025949777, w: 0.9659259}
+      scale: {x: 0.9999983, y: 1, z: 1.0000021}
+    - name: Ellen_TongueEnd
+      parentName: Ellen_TongueDistal
+      position: {x: -0.022627987, y: 2.0456726e-16, z: -8.4241635e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ellen_Right_Shoulder
+      parentName: Ellen_UpperChest
+      position: {x: -0.11539749, y: 0.0400466, z: -0.015376454}
+      rotation: {x: 0.702979, y: 0.70297897, z: -0.07629271, w: -0.07629271}
+      scale: {x: 0.9999923, y: 1.0000032, z: 1.0000042}
+    - name: Ellen_Right_UpperArm
+      parentName: Ellen_Right_Shoulder
+      position: {x: 0.10312239, y: 0.00732, z: 0.01783983}
+      rotation: {x: -0.000000029802319, y: -0.026175663, z: -0.000000059604638, w: 0.9996574}
+      scale: {x: 1.0000004, y: 1.0000066, z: 0.9999946}
+    - name: Ellen_Right_Arm
+      parentName: Ellen_Right_UpperArm
+      position: {x: 0.23377691, y: 2.9006416e-16, z: 0.0021768876}
+      rotation: {x: 0.000000038396262, y: 0.06022995, z: -0.00000038688094, w: 0.99818456}
+      scale: {x: 0.99999624, y: 1, z: 1.0000036}
+    - name: Ellen_Right_Hand
+      parentName: Ellen_Right_Arm
+      position: {x: 0.2519886, y: -5.6822224e-11, z: -0.002696406}
+      rotation: {x: -0.000104272665, y: 0.0000012926753, z: -0.009740919, w: 0.99995255}
+      scale: {x: 0.9999985, y: 1.0000019, z: 1.0000002}
+    - name: Ellen_Right_Hand_Attach
+      parentName: Ellen_Right_Hand
+      position: {x: 0.04, y: 0.03, z: -5.3290704e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ellen_Right_IndexProximal
+      parentName: Ellen_Right_Hand
+      position: {x: 0.060939856, y: 0.011359999, z: -0.022294216}
+      rotation: {x: -0.008651453, y: 0.072976284, z: 0.15051517, w: 0.9858726}
+      scale: {x: 1.000001, y: 0.99999994, z: 1.0000004}
+    - name: Ellen_Right_IndexIntermediate
+      parentName: Ellen_Right_IndexProximal
+      position: {x: 0.026209345, y: 0.000004978231, z: 0.00000022464761}
+      rotation: {x: -0.00000011548396, y: -0.0000055506807, z: 0.038570944, w: 0.99925596}
+      scale: {x: 0.9999977, y: 1.000002, z: 0.9999998}
+    - name: Ellen_Right_IndexDistal
+      parentName: Ellen_Right_IndexIntermediate
+      position: {x: 0.01969795, y: -0.0000035291935, z: -0.00000014501906}
+      rotation: {x: -0.0000001622296, y: 0.0000005262451, z: 0.040980943, w: 0.99916}
+      scale: {x: 1.0000012, y: 0.9999984, z: 1.0000001}
+    - name: Ellen_Right_IndexEnd
+      parentName: Ellen_Right_IndexDistal
+      position: {x: 0.021357665, y: -0.000002995112, z: -0.000000043682526}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ellen_Right_MiddleProximal
+      parentName: Ellen_Right_Hand
+      position: {x: 0.06624978, y: 0.01239, z: -0.0033889036}
+      rotation: {x: -0.00028904816, y: -0.0031065028, z: 0.092646904, w: 0.9956942}
+      scale: {x: 1.0000014, y: 0.9999992, z: 1.0000001}
+    - name: Ellen_Right_MiddleIntermediate
+      parentName: Ellen_Right_MiddleProximal
+      position: {x: 0.029408824, y: 0.000004214682, z: 0.000000036662954}
+      rotation: {x: -0.000000036205147, y: -0.0000007457562, z: 0.038747344, w: 0.99924904}
+      scale: {x: 0.9999984, y: 1.0000021, z: 1.0000004}
+    - name: Ellen_Right_MiddleDistal
+      parentName: Ellen_Right_MiddleIntermediate
+      position: {x: 0.023897897, y: 0.0000014233088, z: -0.00000002866143}
+      rotation: {x: -0.00000015871315, y: -0.0000009719676, z: 0.04022737, w: 0.9991906}
+      scale: {x: 1.0000013, y: 0.9999991, z: 1.0000008}
+    - name: Ellen_Right_MiddleEnd
+      parentName: Ellen_Right_MiddleDistal
+      position: {x: 0.02135735, y: -0.0000025931608, z: -0.00000008737671}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ellen_Right_RingProximal
+      parentName: Ellen_Right_Hand
+      position: {x: 0.06420124, y: 0.01271, z: 0.0165448}
+      rotation: {x: -0.009482401, y: -0.052071847, z: 0.090176724, w: 0.9945184}
+      scale: {x: 1.0000013, y: 0.999999, z: 1.0000005}
+    - name: Ellen_Right_RingIntermediate
+      parentName: Ellen_Right_RingProximal
+      position: {x: 0.026134476, y: -0.0000034694167, z: -0.000000019839222}
+      rotation: {x: 0.000000022351735, y: 0.00000007078049, z: 0.037345953, w: 0.9993024}
+      scale: {x: 0.9999985, y: 1.0000021, z: 1.0000002}
+    - name: Ellen_Right_RingDistal
+      parentName: Ellen_Right_RingIntermediate
+      position: {x: 0.023830751, y: 0.0000041929547, z: 0.000000023672413}
+      rotation: {x: 0.000000024338897, y: 0.00000010444012, z: 0.040690124, w: 0.9991719}
+      scale: {x: 1.0000019, y: 0.9999983, z: 1.0000002}
+    - name: Ellen_Right_RingEnd
+      parentName: Ellen_Right_RingDistal
+      position: {x: 0.021361079, y: 0.000003810049, z: 0.000000027045216}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ellen_Right_PinkyProximal
+      parentName: Ellen_Right_Hand
+      position: {x: 0.057514366, y: 0.016840002, z: 0.035751257}
+      rotation: {x: -0.029195309, y: -0.05614785, z: 0.10333965, w: 0.99263084}
+      scale: {x: 1.000001, y: 0.9999991, z: 1.0000008}
+    - name: Ellen_Right_PinkyIntermediate
+      parentName: Ellen_Right_PinkyProximal
+      position: {x: 0.019617017, y: -0.000006033377, z: -0.00000004139099}
+      rotation: {x: -0.00000006332991, y: 0.0000008083876, z: 0.038163, w: 0.9992716}
+      scale: {x: 0.9999992, y: 1.0000008, z: 0.99999994}
+    - name: Ellen_Right_PinkyDistal
+      parentName: Ellen_Right_PinkyIntermediate
+      position: {x: 0.017391909, y: 0.0000017637728, z: 0.000000027205617}
+      rotation: {x: -0.000000103533246, y: -0.0000010678183, z: 0.038341966, w: 0.99926466}
+      scale: {x: 1.0000015, y: 0.99999815, z: 1}
+    - name: Ellen_Right_PinkyEnd
+      parentName: Ellen_Right_PinkyDistal
+      position: {x: 0.017690951, y: 0.0000029277512, z: -0.00000003831311}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ellen_Right_ThumbProximal
+      parentName: Ellen_Right_Hand
+      position: {x: 0.0067132125, y: 0.016999999, z: -0.02027406}
+      rotation: {x: -0.2189437, y: 0.38895372, z: 0.23894194, w: 0.862372}
+      scale: {x: 0.9999967, y: 0.999999, z: 1.0000051}
+    - name: Ellen_Right_ThumbIntermediate
+      parentName: Ellen_Right_ThumbProximal
+      position: {x: 0.027158605, y: 0.000002688841, z: 0.0000018471096}
+      rotation: {x: 0.0000056475383, y: -0.038488045, z: 0.00011742856, w: 0.9992591}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000004}
+    - name: Ellen_Right_ThumbDistal
+      parentName: Ellen_Right_ThumbIntermediate
+      position: {x: 0.021591228, y: -0.000005928127, z: -0.0000029428468}
+      rotation: {x: 0.000010699583, y: -0.037422, z: -0.000097122196, w: 0.9992995}
+      scale: {x: 1.000003, y: 1.0000002, z: 0.9999972}
+    - name: Ellen_Right_ThumbEnd
+      parentName: Ellen_Right_ThumbDistal
+      position: {x: 0.025002666, y: 0.00000030623602, z: -0.00000027281143}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ellen_Left_Shoulder
+      parentName: Ellen_UpperChest
+      position: {x: -0.11539749, y: -0.040046573, z: -0.015376453}
+      rotation: {x: 0.076292835, y: 0.076292835, z: 0.70297897, w: 0.70297897}
+      scale: {x: 0.9999954, y: 1.0000037, z: 1.0000015}
+    - name: Ellen_Left_UpperArm
+      parentName: Ellen_Left_Shoulder
+      position: {x: -0.1031225, y: -0.0073200064, z: -0.017839856}
+      rotation: {x: -0.0000012554227, y: -0.026176967, z: 0.000000042840835, w: 0.99965733}
+      scale: {x: 0.99999577, y: 1.0000132, z: 0.9999915}
+    - name: Ellen_Left_Arm
+      parentName: Ellen_Left_UpperArm
+      position: {x: -0.23377727, y: -0.000000006110441, z: -0.0021768187}
+      rotation: {x: 0.0000003412595, y: 0.060231492, z: -0.00000035664763, w: 0.99818444}
+      scale: {x: 0.9999942, y: 1.0000002, z: 1.0000057}
+    - name: Ellen_Left_Hand
+      parentName: Ellen_Left_Arm
+      position: {x: -0.2519881, y: 0.000000001362619, z: 0.0026964587}
+      rotation: {x: -0.000103451464, y: 0.00000002235174, z: -0.009740894, w: 0.9999526}
+      scale: {x: 1.0000012, y: 0.9999946, z: 1.0000054}
+    - name: Ellen_Left_Hand_Attach
+      parentName: Ellen_Left_Hand
+      position: {x: -0.04, y: -0.03, z: -5.3290704e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ellen_Left_IndexProximal
+      parentName: Ellen_Left_Hand
+      position: {x: -0.060939856, y: -0.01136, z: 0.022294216}
+      rotation: {x: -0.008651544, y: 0.072976194, z: 0.1505151, w: 0.9858726}
+      scale: {x: 0.9999998, y: 1.0000007, z: 1.0000001}
+    - name: Ellen_Left_IndexIntermediate
+      parentName: Ellen_Left_IndexProximal
+      position: {x: -0.026209345, y: -0.0000049786618, z: -0.00000022501166}
+      rotation: {x: -0.000000047497444, y: -0.000005587935, z: 0.03856676, w: 0.9992561}
+      scale: {x: 0.9999998, y: 1.000001, z: 1.0000007}
+    - name: Ellen_Left_IndexDistal
+      parentName: Ellen_Left_IndexIntermediate
+      position: {x: -0.01969795, y: 0.00000352887, z: 0.00000014457697}
+      rotation: {x: -0.00000011576121, y: 0.0000006017687, z: 0.040986307, w: 0.99915975}
+      scale: {x: 0.99999934, y: 1.0000001, z: 0.9999998}
+    - name: Ellen_Left_IndexEnd
+      parentName: Ellen_Left_IndexDistal
+      position: {x: -0.021357665, y: 0.0000029947614, z: 0.000000043119037}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ellen_Left_MiddleProximal
+      parentName: Ellen_Left_Hand
+      position: {x: -0.06624978, y: -0.012390001, z: 0.003388903}
+      rotation: {x: -0.0002890915, y: -0.0031065452, z: 0.092646845, w: 0.99569416}
+      scale: {x: 1.0000008, y: 1.0000004, z: 0.9999998}
+    - name: Ellen_Left_MiddleIntermediate
+      parentName: Ellen_Left_MiddleProximal
+      position: {x: -0.029408824, y: -0.0000042149654, z: -0.000000036917093}
+      rotation: {x: -0.000000050786173, y: -0.0000006423796, z: 0.038748756, w: 0.999249}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000002}
+    - name: Ellen_Left_MiddleDistal
+      parentName: Ellen_Left_MiddleIntermediate
+      position: {x: -0.023897897, y: -0.0000014235393, z: 0.000000028244418}
+      rotation: {x: -0.00000007252769, y: -0.0000008402037, z: 0.040227253, w: 0.9991906}
+      scale: {x: 0.9999998, y: 1.0000005, z: 1}
+    - name: Ellen_Left_MiddleEnd
+      parentName: Ellen_Left_MiddleDistal
+      position: {x: -0.02135735, y: 0.000002592955, z: 0.00000008687872}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ellen_Left_RingProximal
+      parentName: Ellen_Left_Hand
+      position: {x: -0.06420124, y: -0.01271, z: -0.016544797}
+      rotation: {x: -0.009482448, y: -0.05207181, z: 0.090176865, w: 0.99451834}
+      scale: {x: 1.0000005, y: 1, z: 1}
+    - name: Ellen_Left_RingIntermediate
+      parentName: Ellen_Left_RingProximal
+      position: {x: -0.026134476, y: 0.000003469287, z: 0.000000019614149}
+      rotation: {x: -0.000000004656612, y: 0.00000046193588, z: 0.0373447, w: 0.99930245}
+      scale: {x: 0.9999998, y: 1.0000004, z: 1.0000002}
+    - name: Ellen_Left_RingDistal
+      parentName: Ellen_Left_RingIntermediate
+      position: {x: -0.023830751, y: -0.0000041930098, z: -0.000000019147421}
+      rotation: {x: 0.00000002364912, y: 0.00000008877868, z: 0.040686317, w: 0.999172}
+      scale: {x: 1.0000001, y: 1, z: 1.0000002}
+    - name: Ellen_Left_RingEnd
+      parentName: Ellen_Left_RingDistal
+      position: {x: -0.021361079, y: -0.0000038101546, z: -0.000000027505568}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ellen_Left_PinkyProximal
+      parentName: Ellen_Left_Hand
+      position: {x: -0.057514366, y: -0.01684, z: -0.035751257}
+      rotation: {x: -0.029195586, y: -0.056147657, z: 0.10333823, w: 0.992631}
+      scale: {x: 1.0000019, y: 1.0000005, z: 0.9999985}
+    - name: Ellen_Left_PinkyIntermediate
+      parentName: Ellen_Left_PinkyProximal
+      position: {x: -0.019617017, y: 0.0000060334473, z: 0.000000041177646}
+      rotation: {x: -0.000000026077027, y: 0.0000008121131, z: 0.03815802, w: 0.99927175}
+      scale: {x: 1.0000002, y: 0.9999998, z: 1}
+    - name: Ellen_Left_PinkyDistal
+      parentName: Ellen_Left_PinkyIntermediate
+      position: {x: -0.017391909, y: -0.0000017637104, z: -0.000000027558691}
+      rotation: {x: -0.000000038192848, y: -0.0000019896986, z: 0.03834533, w: 0.9992646}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000001}
+    - name: Ellen_Left_PinkyEnd
+      parentName: Ellen_Left_PinkyDistal
+      position: {x: -0.017690951, y: -0.0000029276878, z: 0.0000000378032}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ellen_Left_ThumbProximal
+      parentName: Ellen_Left_Hand
+      position: {x: -0.006713212, y: -0.017, z: 0.02027406}
+      rotation: {x: -0.2189437, y: 0.38895375, z: 0.23894197, w: 0.86237204}
+      scale: {x: 0.9999983, y: 0.9999986, z: 1.0000046}
+    - name: Ellen_Left_ThumbIntermediate
+      parentName: Ellen_Left_ThumbProximal
+      position: {x: -0.027158605, y: -0.0000026897221, z: -0.0000018471097}
+      rotation: {x: 0.0000056475383, y: -0.038482293, z: 0.00011682506, w: 0.99925935}
+      scale: {x: 1.0000007, y: 1.0000001, z: 0.9999996}
+    - name: Ellen_Left_ThumbDistal
+      parentName: Ellen_Left_ThumbIntermediate
+      position: {x: -0.021591228, y: 0.0000059275294, z: 0.0000029428468}
+      rotation: {x: 0.000010473033, y: -0.03742336, z: -0.00009895545, w: 0.9992995}
+      scale: {x: 1.000001, y: 1.0000001, z: 0.9999996}
+    - name: Ellen_Left_ThumbEnd
+      parentName: Ellen_Left_ThumbDistal
+      position: {x: -0.025002666, y: -0.00000030675074, z: 0.0000002728114}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ellen_Left_UpperLeg
+      parentName: Ellen_Hips
+      position: {x: 0.01683994, y: -0.07564337, z: -0.0024667897}
+      rotation: {x: -0.03926032, y: -0.0000014211982, z: 0.9992291, w: -0.0000003646128}
+      scale: {x: 1.0000193, y: 0.99999994, z: 0.999981}
+    - name: Ellen_Left_LowerLeg
+      parentName: Ellen_Left_UpperLeg
+      position: {x: -0.38615477, y: 0.000000043533287, z: 0}
+      rotation: {x: -0.00000004962912, y: -0.0000010840587, z: -0.0000004448458, w: 1}
+      scale: {x: 0.99999267, y: 1.0000001, z: 1.0000074}
+    - name: Ellen_Left_Foot
+      parentName: Ellen_Left_LowerLeg
+      position: {x: -0.3845391, y: 0, z: 0.00000003700288}
+      rotation: {x: -0.00000003377881, y: 0.5735764, z: 0.000000029549453, w: 0.8191521}
+      scale: {x: 0.9999996, y: 0.999999, z: 1.000002}
+    - name: Ellen_Left_Toes
+      parentName: Ellen_Left_Foot
+      position: {x: -0.11155971, y: -5.301315e-17, z: -2.0888253e-17}
+      rotation: {x: 0.000000054866803, y: 0.15643449, z: 0.00000008035304, w: 0.98768836}
+      scale: {x: 1.0000013, y: 1.0000001, z: 0.99999887}
+    - name: Ellen_Left_ToeEnd
+      parentName: Ellen_Left_Toes
+      position: {x: -0.05580593, y: 4.718448e-18, z: -2.8681962e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ellen_Right_UpperLeg
+      parentName: Ellen_Hips
+      position: {x: 0.016839733, y: 0.0756434, z: -0.0024668525}
+      rotation: {x: 0.99926037, y: 0.00000006449409, z: 0.038456254, w: 0.000001532957}
+      scale: {x: 1.0000203, y: 0.9999915, z: 0.9999898}
+    - name: Ellen_Right_LowerLeg
+      parentName: Ellen_Right_UpperLeg
+      position: {x: 0.38615513, y: 1.1457501e-15, z: -0.00000005034822}
+      rotation: {x: 0.00000010159748, y: -0.00000021979211, z: 0.00000002400613, w: 1}
+      scale: {x: 0.9999952, y: 0.9999998, z: 1.0000049}
+    - name: Ellen_Right_Foot
+      parentName: Ellen_Right_LowerLeg
+      position: {x: 0.38453895, y: 1.2967404e-15, z: -0.00000005776047}
+      rotation: {x: -0.0000017012445, y: -0.5735908, z: -0.0000042502966, w: -0.819142}
+      scale: {x: 0.99999815, y: 1.0000015, z: 1.0000002}
+    - name: Ellen_Right_Toes
+      parentName: Ellen_Right_Foot
+      position: {x: 0.11155968, y: -1.9539925e-16, z: 0.00000003284919}
+      rotation: {x: -0.0000011347412, y: -0.15642099, z: 0.000007036572, w: -0.98769045}
+      scale: {x: 1.0000006, y: 1.0000002, z: 0.99999934}
+    - name: Ellen_Right_ToeEnd
+      parentName: Ellen_Right_Toes
+      position: {x: 0.055805743, y: 1.064401e-10, z: -0.000000006959264}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: Ellen_Root
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

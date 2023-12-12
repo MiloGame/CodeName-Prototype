@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: 950631809d381ca4e8d82d3a0e37c52b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box002
+    100004: Box003
+    100006: Box004
+    100008: Camera001
+    100010: CATRigHub001
+    100012: CATRigLArm1
+    100014: CATRigLArm21
+    100016: CATRigLArm22
+    100018: CATRigLArmCollarbone
+    100020: CATRigLArmDigit11
+    100022: CATRigLArmDigit12
+    100024: CATRigLArmDigit13
+    100026: CATRigLArmDigit21
+    100028: CATRigLArmDigit22
+    100030: CATRigLArmDigit23
+    100032: CATRigLArmDigit31
+    100034: CATRigLArmDigit32
+    100036: CATRigLArmDigit33
+    100038: CATRigLArmDigit41
+    100040: CATRigLArmDigit42
+    100042: CATRigLArmDigit43
+    100044: CATRigLArmDigit51
+    100046: CATRigLArmDigit52
+    100048: CATRigLArmDigit53
+    100050: CATRigLArmIKTarget
+    100052: CATRigLArmPalm
+    100054: CATRigRArm1
+    100056: CATRigRArm21
+    100058: CATRigRArm22
+    100060: CATRigRArmCollarbone
+    100062: CATRigRArmDigit11
+    100064: CATRigRArmDigit12
+    100066: CATRigRArmDigit13
+    100068: CATRigRArmDigit21
+    100070: CATRigRArmDigit22
+    100072: CATRigRArmDigit23
+    100074: CATRigRArmDigit31
+    100076: CATRigRArmDigit32
+    100078: CATRigRArmDigit33
+    100080: CATRigRArmDigit41
+    100082: CATRigRArmDigit42
+    100084: CATRigRArmDigit43
+    100086: CATRigRArmDigit51
+    100088: CATRigRArmDigit52
+    100090: CATRigRArmDigit53
+    100092: CATRigRArmPalm
+    100094: Character001
+    100096: full gloves
+    100098: gloves without fingers
+    100100: hands
+    100102: long sleeves
+    100104: //RootNode
+    100106: short sleeves
+    400000: Box001
+    400002: Box002
+    400004: Box003
+    400006: Box004
+    400008: Camera001
+    400010: CATRigHub001
+    400012: CATRigLArm1
+    400014: CATRigLArm21
+    400016: CATRigLArm22
+    400018: CATRigLArmCollarbone
+    400020: CATRigLArmDigit11
+    400022: CATRigLArmDigit12
+    400024: CATRigLArmDigit13
+    400026: CATRigLArmDigit21
+    400028: CATRigLArmDigit22
+    400030: CATRigLArmDigit23
+    400032: CATRigLArmDigit31
+    400034: CATRigLArmDigit32
+    400036: CATRigLArmDigit33
+    400038: CATRigLArmDigit41
+    400040: CATRigLArmDigit42
+    400042: CATRigLArmDigit43
+    400044: CATRigLArmDigit51
+    400046: CATRigLArmDigit52
+    400048: CATRigLArmDigit53
+    400050: CATRigLArmIKTarget
+    400052: CATRigLArmPalm
+    400054: CATRigRArm1
+    400056: CATRigRArm21
+    400058: CATRigRArm22
+    400060: CATRigRArmCollarbone
+    400062: CATRigRArmDigit11
+    400064: CATRigRArmDigit12
+    400066: CATRigRArmDigit13
+    400068: CATRigRArmDigit21
+    400070: CATRigRArmDigit22
+    400072: CATRigRArmDigit23
+    400074: CATRigRArmDigit31
+    400076: CATRigRArmDigit32
+    400078: CATRigRArmDigit33
+    400080: CATRigRArmDigit41
+    400082: CATRigRArmDigit42
+    400084: CATRigRArmDigit43
+    400086: CATRigRArmDigit51
+    400088: CATRigRArmDigit52
+    400090: CATRigRArmDigit53
+    400092: CATRigRArmPalm
+    400094: Character001
+    400096: full gloves
+    400098: gloves without fingers
+    400100: hands
+    400102: long sleeves
+    400104: //RootNode
+    400106: short sleeves
+    2000000: Camera001
+    2100000: M27
+    2100002: hands
+    2100004: gloves
+    2100006: clothes
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box004
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box004
+    4300000: Box001
+    4300002: Box002
+    4300004: Box003
+    4300006: Box004
+    4300008: full gloves
+    4300010: short sleeves
+    4300012: hands
+    4300014: gloves without fingers
+    4300016: long sleeves
+    7400000: GrenadeCrouch
+    7400002: GrenadeStandUp
+    9500000: //RootNode
+    13700000: full gloves
+    13700002: gloves without fingers
+    13700004: hands
+    13700006: long sleeves
+    13700008: short sleeves
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: GrenadeCrouch
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: GrenadeStandUp
+      takeName: Take 001
+      firstFrame: 200
+      lastFrame: 400
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
